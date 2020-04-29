@@ -1,0 +1,112 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LaTeX book template                           %%
+%% Author:  Amber Jain (http://amberj.devio.us/) %%
+%% License: ISC license                          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[a4paper,11pt]{book}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Source: http://en.wikibooks.org/wiki/LaTeX/Hyperlinks %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{hyperref}
+\hypersetup{unicode=true} % Прибирає hyperref Warning 
+
+
+\usepackage{graphicx}
+\usepackage[ukrainian]{babel}
+
+\usepackage[acronym, toc]{glossaries}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Файли бібліографій                                        %
+% Для кожного розділу треба додати строку:                  %
+%   \addbibresource{Bibliographies/bib_<номер розділу>.bib} %
+%  та відповідний файл в папці Bibliographies/              %
+%  куди додавати посилання, експортовані з інших баз даних. %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[backend=biber,style=numeric,natbib=true]{biblatex}
+\addbibresource{Bibliographies/bib_01.bib}
+\addbibresource{Bibliographies/bib_02.bib}
+\addbibresource{Bibliographies/bib_03.bib}
+\addbibresource{Bibliographies/bib_04.bib}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Chapter quote at the start of chapter        %
+% Source: http://tex.stackexchange.com/a/53380 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeatletter
+\renewcommand{\@chapapp}{}% Not necessary...
+\newenvironment{chapquote}[2][2em]
+  {\setlength{\@tempdima}{#1}%
+   \def\chapquote@author{#2}%
+   \parshape 1 \@tempdima \dimexpr\textwidth-2\@tempdima\relax%
+   \itshape}
+  {\par\normalfont\hfill--\ \chapquote@author\hspace*{\@tempdima}\par\bigskip}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Перша сторінка книги, що містить                %
+%  - Заголовок та підзаголовок                    %
+%  - Ім'я авторів                                 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Заголовок та підзаголовок
+\title{\Huge \textbf{Лапароскопічна хірургія печінки}  
+\\ \huge Ілюстрований посібник }
+% Автор
+%\author{\textsc{First-name Last-name}}
+\author{
+  LastName1, FirstName1
+  \and
+  LastName2, FirstName2
+  \and
+  LastName2, FirstName2
+  \and
+  LastName2, FirstName2
+}
+\date{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Файл глоссарію            %
+%(єдиний для всіх розділів) %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{glossaries}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Основна частина документа %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\frontmatter
+\maketitle
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Auto-generated table of contents, %
+%list of figures and list of tables %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\tableofcontents
+%\listoffigures
+%\listoftables
+
+\mainmatter
+
+\clearpage
+\printglossary[type=\acronymtype,
+               title=Перелік умовних позначеннь]
+
+\include{Chapters/preface}
+\include{Chapters/chapter_01}  
+\include{Chapters/chapter_02}
+\include{Chapters/chapter_03}
+\include{Chapters/chapter_04} 
+%\include{Chapters/template_chapter} 
+
+\end{document}
