@@ -9,14 +9,25 @@
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Title style                                           %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{titlesec}
+
+%\titlespacing\subsubsection{4pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
+
+%\titleformat{\subsubsection}[runin]{\bfseries\Large}{}{}{}[]
+
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Source: http://en.wikibooks.org/wiki/LaTeX/Hyperlinks %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{hyperref}
+\usepackage[hidelinks]{hyperref}
 \hypersetup{unicode=true} % Прибирає hyperref Warning 
 
-
-\usepackage{graphicx}
 \usepackage[ukrainian]{babel}
 
 \usepackage[acronym, toc]{glossaries}
@@ -107,11 +118,11 @@
 \printglossary[type=\acronymtype,
                title=Перелік умовних позначеннь]
 
-\include{Chapters/preface}
+%\include{Chapters/preface}
 \include{Chapters/chapter_01}  
 \include{Chapters/chapter_02}
 \include{Chapters/chapter_03}
 \include{Chapters/chapter_04} 
-\include{Chapters/template_chapter} 
+%\include{Chapters/template_chapter} 
 
 \end{document}
