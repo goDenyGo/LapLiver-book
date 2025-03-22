@@ -1,0 +1,886 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{AbuHilal2017a}{article}{}{}
+      \name{author}{42}{}{%
+        {{hash=9534cc3961e6954ec4beaee27ea833db}{%
+           family={{Abu Hilal}},
+           familyi={A\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=57ad8e5194bfc0603dc18f3649d4d2f0}{%
+           family={Aldrighetti},
+           familyi={A\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=45fb3c1f3216f74b1e66116c2a06e212}{%
+           family={Dagher},
+           familyi={D\bibinitperiod},
+           given={Ibrahim},
+           giveni={I\bibinitperiod}}}%
+        {{hash=19b44c96cb631a240cd1d84cc11529b2}{%
+           family={Edwin},
+           familyi={E\bibinitperiod},
+           given={Bjorn},
+           giveni={B\bibinitperiod}}}%
+        {{hash=83bf164de472a529ebefbe34f08fe9c6}{%
+           family={Troisi},
+           familyi={T\bibinitperiod},
+           given={Roberto\bibnamedelima Ivan},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=13e9aee1d61c2962650f91282dd06651}{%
+           family={Alikhanov},
+           familyi={A\bibinitperiod},
+           given={Ruslan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=b0a5f3dd1206c1c78ae63b428aca5efb}{%
+           family={Aroori},
+           familyi={A\bibinitperiod},
+           given={Somaiah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f391eb7228d850b8932cf4aaa12e56aa}{%
+           family={Belli},
+           familyi={B\bibinitperiod},
+           given={Giulio},
+           giveni={G\bibinitperiod}}}%
+        {{hash=8ad02a3d00fbe679b9bee11b6992960f}{%
+           family={Besselink},
+           familyi={B\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c833b937525c33ec9934178b45a72c2c}{%
+           family={Briceno},
+           familyi={B\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bf291ee14e23d90161e0825d2ddd93f4}{%
+           family={Gayet},
+           familyi={G\bibinitperiod},
+           given={Brice},
+           giveni={B\bibinitperiod}}}%
+        {{hash=8cae5c7d263f5b6e85539cc94bf81c79}{%
+           family={D'Hondt},
+           familyi={D\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=499182242cbc70e1d3d0d41f124ec9a9}{%
+           family={Lesurtel},
+           familyi={L\bibinitperiod},
+           given={Mickael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a75d54655741c25eae9f3864fd727a23}{%
+           family={Menon},
+           familyi={M\bibinitperiod},
+           given={Krishna},
+           giveni={K\bibinitperiod}}}%
+        {{hash=0aa6d1fb114537950d54d25d601751b4}{%
+           family={Lodge},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=61392009694fcc8d45dbe8ed11ab1ea5}{%
+           family={Rotellar},
+           familyi={R\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod}}}%
+        {{hash=401082585cff2cf3d4d84e7bf941846e}{%
+           family={Santoyo},
+           familyi={S\bibinitperiod},
+           given={Julio},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a10367c20a4d417d8be0ee1d8ac0bf80}{%
+           family={Scatton},
+           familyi={S\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=c2feab2becdbba39dab8ba50369555c6}{%
+           family={Soubrane},
+           familyi={S\bibinitperiod},
+           given={Olivier},
+           giveni={O\bibinitperiod}}}%
+        {{hash=bb6291f111689c975992c419daef96bf}{%
+           family={Sutcliffe},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=46873ecd9c51d7c827e4efc90b868da9}{%
+           family={{Van Dam}},
+           familyi={V\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ae68a93f2c4fb24d699a6fec7781d343}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ae23cd5254b4a98c33a8ec00f4a56d46}{%
+           family={Halls},
+           familyi={H\bibinitperiod},
+           given={Mark\bibnamedelima Christopher},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=8f4ca46c270b270adf81c3e7da941f27}{%
+           family={Cipriani},
+           familyi={C\bibinitperiod},
+           given={Federica},
+           giveni={F\bibinitperiod}}}%
+        {{hash=3eae399584f43f15a48e9cbd7fc9a22d}{%
+           family={{Van der Poel}},
+           familyi={V\bibinitperiod},
+           given={Marcel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=afcb5c89670865aa19ea65d055327b91}{%
+           family={Ciria},
+           familyi={C\bibinitperiod},
+           given={Ruben},
+           giveni={R\bibinitperiod}}}%
+        {{hash=755602d0f382c594c41f77bb7c6a80c2}{%
+           family={Barkhatov},
+           familyi={B\bibinitperiod},
+           given={Leonid},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7128579b8aca663f643449d32125c7d2}{%
+           family={Gomez-Luque},
+           familyi={G\bibinithyphendelim L\bibinitperiod},
+           given={Yrene},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=78e53bd6cefb948fdf03d859cdee60db}{%
+           family={Ocana-Garcia},
+           familyi={O\bibinithyphendelim G\bibinitperiod},
+           given={Sira},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d89fea6b87d5e26a6d4153dfc97c8c8b}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d07b3ca8e2d6200f9b06dac229e33582}{%
+           family={Buell},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4197c7f043777a33513cf2aea0f1dce1}{%
+           family={Clavien},
+           familyi={C\bibinitperiod},
+           given={Pierre-Alain},
+           giveni={P\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=fd778d74b5d3ecd6a758cea2ad06baae}{%
+           family={Dervenis},
+           familyi={D\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5cd15af690e68cf469c04c9afa6a458f}{%
+           family={Fusai},
+           familyi={F\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b6e8b40c6e8537d5d20d69cd99487810}{%
+           family={Geller},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d906fd9d81eac3616f1cacf56905c5b8}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={Hauke},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c018d189c93b685d21c9815887c70fbe}{%
+           family={Primrose},
+           familyi={P\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0a8a747591efdf29a9af62be9939051e}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=159e5a21729076eed07ff7fa6567d708}{%
+           family={{Van Gulik}},
+           familyi={V\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=8c8447775923f34ce1d62850e1ef5626}{%
+           family={Wakabayashi},
+           familyi={W\bibinitperiod},
+           given={Go},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e972bf914fa54d406ed8186daa193e38}{%
+           family={Asbun},
+           familyi={A\bibinitperiod},
+           given={Horacio},
+           giveni={H\bibinitperiod}}}%
+        {{hash=aedb9e8a3dfff58517c7325504b46e9a}{%
+           family={Cherqui},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{45b49de2ab2e8ec5141f8122c59bc025}
+      \strng{fullhash}{bb21741130519b124585f7dff64fe91c}
+      \strng{fullhashraw}{bb21741130519b124585f7dff64fe91c}
+      \strng{bibnamehash}{45b49de2ab2e8ec5141f8122c59bc025}
+      \strng{authorbibnamehash}{45b49de2ab2e8ec5141f8122c59bc025}
+      \strng{authornamehash}{45b49de2ab2e8ec5141f8122c59bc025}
+      \strng{authorfullhash}{bb21741130519b124585f7dff64fe91c}
+      \strng{authorfullhashraw}{bb21741130519b124585f7dff64fe91c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OBJECTIVE The European Guidelines Meeting on Laparoscopic Liver Surgery was held in Southampton on February 10 and 11, 2017 with the aim of presenting and validating clinical practice guidelines for laparoscopic liver surgery. BACKGROUND The exponential growth of laparoscopic liver surgery in recent years mandates the development of clinical practice guidelines to direct the speciality's continued safe progression and dissemination. METHODS A unique approach to the development of clinical guidelines was adopted. Three well-validated methods were integrated: the Scottish Intercollegiate Guidelines Network methodology for the assessment of evidence and development of guideline statements; the Delphi method of establishing expert consensus, and the AGREE II-GRS Instrument for the assessment of the methodological quality and external validation of the final statements. RESULTS Along with the committee chairman, 22 European experts; 7 junior experts and an independent validation committee of 11 international surgeons produced 67 guideline statements for the safe progression and dissemination of laparoscopic liver surgery. Each of the statements reached at least a 95{\%} consensus among the experts and were endorsed by the independent validation committee. CONCLUSION The European Guidelines Meeting for Laparoscopic Liver Surgery has produced a set of clinical practice guidelines that have been independently validated for the safe development and progression of laparoscopic liver surgery. The Southampton Guidelines have amalgamated the available evidence and a wealth of experts' knowledge taking in consideration the relevant stakeholders' opinions and complying with the international methodology standards.}
+      \field{isbn}{0000000000}
+      \field{issn}{0003-4932}
+      \field{journaltitle}{Annals of Surgery}
+      \field{number}{Xx}
+      \field{title}{{The Southampton Consensus Guidelines for Laparoscopic Liver Surgery}}
+      \field{volume}{XX}
+      \field{year}{2017}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1097/SLA.0000000000002524
+      \endverb
+      \verb{file}
+      \verb :Users/denys/Library/Application Support/Mendeley Desktop/Downloaded/Abu Hilal et al. - 2017 - The Southampton Consensus Guidelines for Laparoscopic Liver Surgery.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://insights.ovid.com/crossref?an=00000658-900000000-95877
+      \endverb
+      \verb{url}
+      \verb http://insights.ovid.com/crossref?an=00000658-900000000-95877
+      \endverb
+    \endentry
+    \entry{Cassai2019}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=89f74269804aab45835acb4dc45531bd}{%
+           family={Cassai},
+           familyi={C\bibinitperiod},
+           given={Alessandro\bibnamedelima De},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=47270971d2d564dfd14f6accd0f85d3e}{%
+           family={Boetto},
+           familyi={B\bibinitperiod},
+           given={Riccardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4636ba17224428a8889ef486152bad86}{%
+           family={Gabellini},
+           familyi={G\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=5d99f6194002574a3b85ba26297ca1c0}{%
+           family={Cillo},
+           familyi={C\bibinitperiod},
+           given={Umberto},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cureus, Inc.}%
+      }
+      \strng{namehash}{7c9e5d2017ceedcb645b53e220460b19}
+      \strng{fullhash}{e2a674a689621b21e442a538941cc49a}
+      \strng{fullhashraw}{e2a674a689621b21e442a538941cc49a}
+      \strng{bibnamehash}{7c9e5d2017ceedcb645b53e220460b19}
+      \strng{authorbibnamehash}{7c9e5d2017ceedcb645b53e220460b19}
+      \strng{authornamehash}{7c9e5d2017ceedcb645b53e220460b19}
+      \strng{authorfullhash}{e2a674a689621b21e442a538941cc49a}
+      \strng{authorfullhashraw}{e2a674a689621b21e442a538941cc49a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Carbon dioxide embolism during laparoscopic surgery is a serious and life-threatening complication. The overall incidence of embolism during laparoscopic surgery is low (0.15\%). Although the potential fatal consequences of this complication are reported in literature, a well-documented report of the effect of massive CO2 embolism during laparoscopic liver resection on cardiovascular, respiratory and encephalographic parameters does not exist. The authors describe a well-documented case of massive carbon dioxide embolism during laparoscopic liver resection suspected by both hemodynamic instability and elevation of EtCO2 and confirmed by arterial blood gas. The surgeon's rapid closure of the vascular breach resulted in an overall improvement of the patient's vital signs without further consequences. Our case report shows the cardiovascular, respiratory and encephalographic effects of a massive carbon dioxide embolism and highlights the importance of a strict cooperation between the surgeon and the anesthesiologist and the importance for a prompt treatment when massive carbon dioxide embolism occurs.}
+      \field{issn}{2168-8184}
+      \field{journaltitle}{Cureus}
+      \field{month}{7}
+      \field{title}{Massive Carbon Dioxide Embolism During Laparoscopic Liver Resection: A Case Report}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.7759/cureus.5075
+      \endverb
+    \endentry
+    \entry{Ciria2016a}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=afcb5c89670865aa19ea65d055327b91}{%
+           family={Ciria},
+           familyi={C\bibinitperiod},
+           given={Ruben},
+           giveni={R\bibinitperiod}}}%
+        {{hash=aedb9e8a3dfff58517c7325504b46e9a}{%
+           family={Cherqui},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f2b100b6ef41a7e8972f422b8912a05b}{%
+           family={Geller},
+           familyi={G\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c833b937525c33ec9934178b45a72c2c}{%
+           family={Briceno},
+           familyi={B\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8c8447775923f34ce1d62850e1ef5626}{%
+           family={Wakabayashi},
+           familyi={W\bibinitperiod},
+           given={Go},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e8366fce264c1a8dade138e4217cd453}
+      \strng{fullhash}{b921d5dcfce8d2522376e8a80f039cbe}
+      \strng{fullhashraw}{b921d5dcfce8d2522376e8a80f039cbe}
+      \strng{bibnamehash}{e8366fce264c1a8dade138e4217cd453}
+      \strng{authorbibnamehash}{e8366fce264c1a8dade138e4217cd453}
+      \strng{authornamehash}{e8366fce264c1a8dade138e4217cd453}
+      \strng{authorfullhash}{b921d5dcfce8d2522376e8a80f039cbe}
+      \strng{authorfullhashraw}{b921d5dcfce8d2522376e8a80f039cbe}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OBJECTIVE: To perform a systematic review of worldwide literature on laparoscopic liver resections (LLR) and compare short-term outcomes against open liver resections (OLR) by meta-analyses. SUMMARY BACKGROUND DATA: There are no updated pooled data since 2009 about the current status and short-term outcomes of LLR worldwide. PATIENTS AND METHODS: All English language publications on LLR were screened. Descriptive worldwide data and short-term outcomes were obtained. Separate analyses were performed for minor-only and major-only resection series, and series in which minor/major resections were not differentiated. Apparent case duplications were excluded. RESULTS: A set of 463 published manuscripts were reviewed. One hundred seventy-nine single-center series were identified that accounted for 9527 LLR cases worldwide. Minor-only, major-only, and combined major-minor series were 61, 18, and 100, respectively, including 32, 8, and 43 comparative series, respectively. Of the total 9527 LLR cases reported, 6190 (65{\%}) were for malignancy and 3337 (35{\%}) were for benign indications. There were 37 deaths reported (mortality rate = 0.4{\%}). From the meta-analysis comparing case-matched LLR to OLR (N = 2900 cases), there was no increased mortality and significantly less complications, transfusions, blood loss, and hospital stay observed in LLR vs OLR. CONCLUSIONS: This is the largest review of LLR available to date with over 9000 cases published. It confirms growing safety when performed in selected patients and by trained surgeons, and suggests that LLR may offer improved patient short-term outcomes compared with OLR. Improved levels of evidence, standardized reporting of outcomes, and assuring proper training are the next challenges of laparoscopic liver surgery.}
+      \field{isbn}{0000000000}
+      \field{issn}{15281140}
+      \field{journaltitle}{Annals of Surgery}
+      \field{number}{4}
+      \field{title}{{Comparative short-term benefits of laparoscopic liver resection: 9000 cases and climbing}}
+      \field{volume}{263}
+      \field{year}{2016}
+      \field{pages}{761\bibrangedash 777}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1097/SLA.0000000000001413
+      \endverb
+      \verb{file}
+      \verb :Users/denys/Library/Application Support/Mendeley Desktop/Downloaded/Ciria et al. - 2016 - Comparative short-term benefits of laparoscopic liver resection 9000 cases and climbing(2).pdf:pdf
+      \endverb
+      \keyw{Laparoscopy,Liver resection,Meta-analysis,Minimally invasive,Outcomes,Systematic review}
+    \endentry
+    \entry{Ciria2016b}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=afcb5c89670865aa19ea65d055327b91}{%
+           family={Ciria},
+           familyi={C\bibinitperiod},
+           given={Ruben},
+           giveni={R\bibinitperiod}}}%
+        {{hash=aedb9e8a3dfff58517c7325504b46e9a}{%
+           family={Cherqui},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f2b100b6ef41a7e8972f422b8912a05b}{%
+           family={Geller},
+           familyi={G\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c833b937525c33ec9934178b45a72c2c}{%
+           family={Briceno},
+           familyi={B\bibinitperiod},
+           given={Javier},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8c8447775923f34ce1d62850e1ef5626}{%
+           family={Wakabayashi},
+           familyi={W\bibinitperiod},
+           given={Go},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{e8366fce264c1a8dade138e4217cd453}
+      \strng{fullhash}{b921d5dcfce8d2522376e8a80f039cbe}
+      \strng{fullhashraw}{b921d5dcfce8d2522376e8a80f039cbe}
+      \strng{bibnamehash}{e8366fce264c1a8dade138e4217cd453}
+      \strng{authorbibnamehash}{e8366fce264c1a8dade138e4217cd453}
+      \strng{authornamehash}{e8366fce264c1a8dade138e4217cd453}
+      \strng{authorfullhash}{b921d5dcfce8d2522376e8a80f039cbe}
+      \strng{authorfullhashraw}{b921d5dcfce8d2522376e8a80f039cbe}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OBJECTIVE: To perform a systematic review of worldwide literature on laparoscopic liver resections (LLR) and compare short-term outcomes against open liver resections (OLR) by meta-analyses. SUMMARY BACKGROUND DATA: There are no updated pooled data since 2009 about the current status and short-term outcomes of LLR worldwide. PATIENTS AND METHODS: All English language publications on LLR were screened. Descriptive worldwide data and short-term outcomes were obtained. Separate analyses were performed for minor-only and major-only resection series, and series in which minor/major resections were not differentiated. Apparent case duplications were excluded. RESULTS: A set of 463 published manuscripts were reviewed. One hundred seventy-nine single-center series were identified that accounted for 9527 LLR cases worldwide. Minor-only, major-only, and combined major-minor series were 61, 18, and 100, respectively, including 32, 8, and 43 comparative series, respectively. Of the total 9527 LLR cases reported, 6190 (65{\%}) were for malignancy and 3337 (35{\%}) were for benign indications. There were 37 deaths reported (mortality rate = 0.4{\%}). From the meta-analysis comparing case-matched LLR to OLR (N = 2900 cases), there was no increased mortality and significantly less complications, transfusions, blood loss, and hospital stay observed in LLR vs OLR. CONCLUSIONS: This is the largest review of LLR available to date with over 9000 cases published. It confirms growing safety when performed in selected patients and by trained surgeons, and suggests that LLR may offer improved patient short-term outcomes compared with OLR. Improved levels of evidence, standardized reporting of outcomes, and assuring proper training are the next challenges of laparoscopic liver surgery.}
+      \field{isbn}{0000000000}
+      \field{issn}{15281140}
+      \field{journaltitle}{Annals of Surgery}
+      \field{number}{4}
+      \field{title}{{Comparative short-term benefits of laparoscopic liver resection: 9000 cases and climbing}}
+      \field{volume}{263}
+      \field{year}{2016}
+      \field{pages}{761\bibrangedash 777}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1097/SLA.0000000000001413
+      \endverb
+      \verb{file}
+      \verb :Users/denys/Library/Application Support/Mendeley Desktop/Downloaded/Ciria et al. - 2016 - Comparative short-term benefits of laparoscopic liver resection 9000 cases and climbing.pdf:pdf
+      \endverb
+      \keyw{Laparoscopy,Liver resection,Meta-analysis,Minimally invasive,Outcomes,Systematic review}
+    \endentry
+    \entry{Halls2018}{article}{}{}
+      \name{author}{13}{}{%
+        {{hash=1612ddf9404229d2c652a023ad776a4d}{%
+           family={Halls},
+           familyi={H\bibinitperiod},
+           given={Mark\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=8f4ca46c270b270adf81c3e7da941f27}{%
+           family={Cipriani},
+           familyi={C\bibinitperiod},
+           given={Federica},
+           giveni={F\bibinitperiod}}}%
+        {{hash=58d048b7e005243b9a4dc2b8df5e41bf}{%
+           family={Berardi},
+           familyi={B\bibinitperiod},
+           given={Giammauro},
+           giveni={G\bibinitperiod}}}%
+        {{hash=755602d0f382c594c41f77bb7c6a80c2}{%
+           family={Barkhatov},
+           familyi={B\bibinitperiod},
+           given={Leonid},
+           giveni={L\bibinitperiod}}}%
+        {{hash=48072f5c80388fb962024db6c48d7155}{%
+           family={Lainas},
+           familyi={L\bibinitperiod},
+           given={Panagiotis},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3e26046db8d582aa7c120e2df45346b2}{%
+           family={Alzoubi},
+           familyi={A\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod}}}%
+        {{hash=79c936c93695be70fbab338dcee74229}{%
+           family={D’Hondt},
+           familyi={D\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=61392009694fcc8d45dbe8ed11ab1ea5}{%
+           family={Rotellar},
+           familyi={R\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod}}}%
+        {{hash=45fb3c1f3216f74b1e66116c2a06e212}{%
+           family={Dagher},
+           familyi={D\bibinitperiod},
+           given={Ibrahim},
+           giveni={I\bibinitperiod}}}%
+        {{hash=57ad8e5194bfc0603dc18f3649d4d2f0}{%
+           family={Aldrighetti},
+           familyi={A\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a566071de3d0a6955cf4d3ffb8ed3e3c}{%
+           family={Troisi},
+           familyi={T\bibinitperiod},
+           given={Roberto\bibnamedelima I.},
+           giveni={R\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=19b44c96cb631a240cd1d84cc11529b2}{%
+           family={Edwin},
+           familyi={E\bibinitperiod},
+           given={Bjorn},
+           giveni={B\bibinitperiod}}}%
+        {{hash=73f29d889b1a7a677e7dc5d235bf1b44}{%
+           family={Hilal},
+           familyi={H\bibinitperiod},
+           given={Mohammed\bibnamedelima Abu},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Lippincott Williams}%
+        {Wilkins}%
+      }
+      \strng{namehash}{3b78813a9a9f06029bef479699d1cb20}
+      \strng{fullhash}{008bca19ecda102e9b9c9ae8de77636d}
+      \strng{fullhashraw}{008bca19ecda102e9b9c9ae8de77636d}
+      \strng{bibnamehash}{3b78813a9a9f06029bef479699d1cb20}
+      \strng{authorbibnamehash}{3b78813a9a9f06029bef479699d1cb20}
+      \strng{authornamehash}{3b78813a9a9f06029bef479699d1cb20}
+      \strng{authorfullhash}{008bca19ecda102e9b9c9ae8de77636d}
+      \strng{authorfullhashraw}{008bca19ecda102e9b9c9ae8de77636d}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OBJECTIVE:: To investigate the risk factors for conversion during laparoscopic liver resection and its effect on patient outcome in a large cohort of patients. Additional analysis of outcomes in patients who required conversion for unfavorable intraoperative findings and conversion for unfavorable intraoperative events will be performed to establish if the cause of conversion effects outcome. SUMMARY BACKGROUND DATA:: Multiple previous studies demonstrate that laparoscopic liver surgery reduces intraoperative blood loss, hospital stay, and morbidity while maintaining comparable oncological and survival outcomes when compared with open liver resections. However, limited information is available regarding the possible sequelae of conversion to open surgery, especially with regards to cause of conversion. METHODS:: A retrospective analysis of 2861 cases from prospectively maintained databases of 7 tertiary liver centers across Europe was performed. RESULTS:: Neo-adjuvant chemotherapy, previous liver resection(s), resections for malignant lesions, postero-superior location, and the extent of the resection are associated with an increased risk of conversion. Patients who require conversion have longer operations with higher blood loss; a longer HDU and total hospital stay, increased frequency and severity of complications and higher 30- and 90-day mortality. Patients who had an elective conversion for an unfavorable intraoperative finding had better outcomes than patients who had an emergency conversion secondary to an unfavorable intraoperative event in terms of HDU and total hospital stay, severity of complication, and 90-day mortality. CONCLUSIONS:: Our study highlights the risk factors for conversion and suggests that conversion for unfavorable intraoperative events is associated with worse outcomes.}
+      \field{issn}{0003-4932}
+      \field{issue}{6}
+      \field{journaltitle}{Annals of Surgery}
+      \field{month}{12}
+      \field{title}{Conversion for Unfavorable Intraoperative Events Results in Significantly Worse Outcomes During Laparoscopic Liver Resection}
+      \field{volume}{268}
+      \field{year}{2018}
+      \field{pages}{1051\bibrangedash 1057}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1097/SLA.0000000000002332
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.lww.com/00000658-201812000-00026
+      \endverb
+      \verb{url}
+      \verb https://journals.lww.com/00000658-201812000-00026
+      \endverb
+    \endentry
+    \entry{Honda2020}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=1de514d359c3d2cd7420684fc10bd40e}{%
+           family={Honda},
+           familyi={H\bibinitperiod},
+           given={Goro},
+           giveni={G\bibinitperiod}}}%
+        {{hash=436a37ba36a7b3c0607015ff75bd10aa}{%
+           family={Ome},
+           familyi={O\bibinitperiod},
+           given={Yusuke},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=90a298f99b1c4d1edcac9c29e9c542b0}{%
+           family={Yoshida},
+           familyi={Y\bibinitperiod},
+           given={Naoki},
+           giveni={N\bibinitperiod}}}%
+        {{hash=5729c311ec024c98292faa2fed515a30}{%
+           family={Kawamoto},
+           familyi={K\bibinitperiod},
+           given={Yusuke},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Blackwell Publishing Asia}%
+      }
+      \strng{namehash}{8598a804fd6f65bd8768419db8fd239d}
+      \strng{fullhash}{3938408848a59931943ae1754c57b901}
+      \strng{fullhashraw}{3938408848a59931943ae1754c57b901}
+      \strng{bibnamehash}{8598a804fd6f65bd8768419db8fd239d}
+      \strng{authorbibnamehash}{8598a804fd6f65bd8768419db8fd239d}
+      \strng{authornamehash}{8598a804fd6f65bd8768419db8fd239d}
+      \strng{authorfullhash}{3938408848a59931943ae1754c57b901}
+      \strng{authorfullhashraw}{3938408848a59931943ae1754c57b901}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: A large amount of blood flows in and out of the liver through the inflow system consisting of the portal vein and hepatic artery within the Glissonean cord and the outflow system constituted by the hepatic veins. Methods: During liver parenchymal dissection, useful methods to maintain a dry operative field are to control the inflow system with the Pringle maneuver and the outflow system by managing the central venous pressure. Additionally, mature techniques of dissecting the liver parenchyma, which can prevent injury to the blood vessels and appropriately and promptly stop bleeding, are fundamental. Similar to archaeological excavation, in which buried remains are unearthed and exposed in intact form, the Glissonean cords and hepatic veins buried in the liver parenchyma should be exposed or isolated without causing injury to these structures during liver parenchymal dissection. Results: The cavitron ultrasonic surgical aspirator (CUSA) is useful as a surgical device for excavation because it has multiple functions in one device. However, there have been no systematic guidelines on how to use it effectively during hepatectomy. Conclusion: We herein describe how to use the CUSA, based on our knowledge and experiences.}
+      \field{issn}{18686982}
+      \field{issue}{11}
+      \field{journaltitle}{Journal of Hepato-Biliary-Pancreatic Sciences}
+      \field{month}{11}
+      \field{title}{How to dissect the liver parenchyma: Excavation with cavitron ultrasonic surgical aspirator}
+      \field{volume}{27}
+      \field{year}{2020}
+      \field{pages}{907\bibrangedash 912}
+      \range{pages}{6}
+      \verb{doi}
+      \verb{10.1002/jhbp.829}
+      \endverb
+      \keyw{bleeding control,cavitron ultrasonic surgical aspirator,hemostasis,laparoscopic liver resection,parenchyma dissection}
+    \endentry
+    \entry{Hsu2012}{report}{}{}
+      \name{author}{9}{}{%
+        {{hash=51bd1952521c21b2d540355135482b09}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Kuo-Feng},
+           giveni={K\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=a451c07955e09e2cc02e0c2048d4a48b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Tsang-Pai},
+           giveni={T\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=4aad5418c74a5f7ab9d582c3c69f616a}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Jyh-Cherng},
+           giveni={J\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=1a3c7c5b9234eaa08bf2f8bd5d37a557}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Teng-Wei},
+           giveni={T\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=6d494119b6c95d60c04b877cfed6db9a}{%
+           family={Shih},
+           familyi={S\bibinitperiod},
+           given={Ming-Lang},
+           giveni={M\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=c05bf6f722d9995a5bcca9ca3ea353fa}{%
+           family={Ou},
+           familyi={O\bibinitperiod},
+           given={Kuang-Ling},
+           giveni={K\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=0049b7b52d8bdd863aa29d022de57dfd}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Cheng-Jueng},
+           giveni={C\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=a6122a531c93d10c2042dad5a7f6e5d3}{%
+           family={Chan},
+           familyi={C\bibinitperiod},
+           given={De-Chuan},
+           giveni={D\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=d4537878b40c54970b0ac54e916caeff}{%
+           family={Hsieh},
+           familyi={H\bibinitperiod},
+           given={Chung-Bao},
+           giveni={C\bibinithyphendelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{d9a288f6685b39c42f1a64870ae851c7}
+      \strng{fullhash}{d4da7bb9fb031933456e783a5aa3a1e7}
+      \strng{fullhashraw}{d4da7bb9fb031933456e783a5aa3a1e7}
+      \strng{bibnamehash}{d9a288f6685b39c42f1a64870ae851c7}
+      \strng{authorbibnamehash}{d9a288f6685b39c42f1a64870ae851c7}
+      \strng{authornamehash}{d9a288f6685b39c42f1a64870ae851c7}
+      \strng{authorfullhash}{d4da7bb9fb031933456e783a5aa3a1e7}
+      \strng{authorfullhashraw}{d4da7bb9fb031933456e783a5aa3a1e7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: Laparoscopic liver resection has become a feasible and safe procedure for liver tumor, but it requires experienced surgeons in the case of hepatobiliary and laparoscopic surgeries. More minimally invasive laparoscopic techniques of liver surgery are developed. We here report our experience of using a marionette technique for 3-port laparoscopic liver resection.}
+      \field{title}{Application of Marionette Technique for 3-port Laparoscopic Liver Resection}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb www.surgical-laparoscopy.com.
+      \endverb
+      \verb{url}
+      \verb www.surgical-laparoscopy.com.
+      \endverb
+    \endentry
+    \entry{Kobayashi2016}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=43328a8cbab16fb4b95a47003202915c}{%
+           family={Kobayashi},
+           familyi={K\bibinitperiod},
+           given={Shin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1de514d359c3d2cd7420684fc10bd40e}{%
+           family={Honda},
+           familyi={H\bibinitperiod},
+           given={Goro},
+           giveni={G\bibinitperiod}}}%
+        {{hash=bd031e99a2fcd7006e0d194bcc43e418}{%
+           family={Kurata},
+           familyi={K\bibinitperiod},
+           given={Masanao},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ba6c32c491da5cdaf2e10e50fb2acb69}{%
+           family={Tadano},
+           familyi={T\bibinitperiod},
+           given={Sosuke},
+           giveni={S\bibinitperiod}}}%
+        {{hash=502904b6117eab9d8c68bb61c7229ae1}{%
+           family={Sakamoto},
+           familyi={S\bibinitperiod},
+           given={Katsunori},
+           giveni={K\bibinitperiod}}}%
+        {{hash=86707df3b92fa8a52d324a6ec412c8ad}{%
+           family={Okuda},
+           familyi={O\bibinitperiod},
+           given={Yukihiro},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2dfc9dba99a7ca07608f7daf61b2c8a1}{%
+           family={Abe},
+           familyi={A\bibinitperiod},
+           given={Keisuke},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Lippincott Williams}%
+        {Wilkins}%
+      }
+      \strng{namehash}{9260bbe9f3d43e2ea44adc891a59b2bb}
+      \strng{fullhash}{97dcb6ae8d4daad1a206ac61f52248ea}
+      \strng{fullhashraw}{97dcb6ae8d4daad1a206ac61f52248ea}
+      \strng{bibnamehash}{9260bbe9f3d43e2ea44adc891a59b2bb}
+      \strng{authorbibnamehash}{9260bbe9f3d43e2ea44adc891a59b2bb}
+      \strng{authornamehash}{9260bbe9f3d43e2ea44adc891a59b2bb}
+      \strng{authorfullhash}{97dcb6ae8d4daad1a206ac61f52248ea}
+      \strng{authorfullhashraw}{97dcb6ae8d4daad1a206ac61f52248ea}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Objectives: To determine optimal settings for airway pressure (AWP), pneumoperitoneum pressure (PPP), and central venous pressure (CVP) in pure laparoscopic hepatectomy. Background: High PPP is often employed to control bleeding from the hepatic vein during pure laparoscopic hepatectomy; however, there is a risk of pulmonary gas embolism. We noted that decreases in AWP were often effective. Methods: After establishing carbon dioxide pneumoperitoneum in 6male piglets andmaintaining PPPat 25mmHg,CVPwas measured 3 times at each of 9 levels of airway pressure, which was increased in increments of 5 cmH2O from 0 to 40cmH2O. CVP was measured in the same manner by maintaining PPP at 20, 15, 10, 5, and 0 mmHg, and in laparotomy. Correlation and regression analyses were performed among airway pressure, CVP, and pneumoperitoneum pressure. Results: Positive correlations were observed between AWP and CVP and between PPP and CVP (P<0.001). Under high airway pressure, CVP was persistently higher than pneumoperitoneum pressure. Under low airway pressure, CVP did not increase or often decreased when PPP was higher than CVP. Conclusions: By increasing pneumoperitoneum pressure, bleeding from the hepatic vein cannot be controlled under high airway pressure, but can be controlled under low airway pressure. However, under low airway pressure, the risk of pulmonary gas embolism increases when PPP is higher than CVP. We consider that reducing AWP is also effective for controlling bleeding from the hepatic vein and safer than increasing pneumoperitoneum pressure.}
+      \field{issn}{15281140}
+      \field{issue}{6}
+      \field{journaltitle}{Annals of Surgery}
+      \field{title}{An experimental study on the relationship among airway pressure, pneumoperitoneum pressure, and central venous pressure in pure laparoscopic hepatectomy}
+      \field{volume}{263}
+      \field{year}{2016}
+      \field{pages}{1159\bibrangedash 1163}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1097/SLA.0000000000001482
+      \endverb
+      \keyw{Airway pressure,Central venous pressure,Laparoscopic hepatectomy,Pneumoperitoneum pressure}
+    \endentry
+    \entry{Li2016}{report}{}{}
+      \name{author}{2}{}{%
+        {{hash=cea99e3ed74f7ce08426da7357f37db1}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Hongyu},
+           giveni={H\bibinitperiod}}}%
+        {{hash=e7330b4e0ee7bd855aa03f9a07e55397}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Yonggang},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{a891918162f065df9636db6a547d5d4a}
+      \strng{fullhash}{a891918162f065df9636db6a547d5d4a}
+      \strng{fullhashraw}{a891918162f065df9636db6a547d5d4a}
+      \strng{bibnamehash}{a891918162f065df9636db6a547d5d4a}
+      \strng{authorbibnamehash}{a891918162f065df9636db6a547d5d4a}
+      \strng{authornamehash}{a891918162f065df9636db6a547d5d4a}
+      \strng{authorfullhash}{a891918162f065df9636db6a547d5d4a}
+      \strng{authorfullhashraw}{a891918162f065df9636db6a547d5d4a}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Background: Laparoscopic hepatectomy (LH) has now been widely performed in experienced centers. However, hepatic vein injury (HVI) during LH is especially dangerous, because it may cause conversion, air embolization, fatal hemorrhaging, or even death. Materials and Methods: Perioperative characteristics of 4 patients who underwent LH suffering HVI were recorded, including 2 for right HVIs, 1 for middle HVI, and 1 for left HVI. Ultrasonic shears was used for liver mobilization. Linear stapler was adopted to cut off hepatic vein. A 4-0 prolene was used to repair HVI. Results: In case 1 laparoscopic right hemihepatectomy was performed for hepatic hemangioma. The root of right hepatic vein was injured. Repairing time was about 10 minutes and hemorrhaging was about 150 mL. In case 2 laparoscopic segmentectomy for S 7 and S 8 was performed for hepatic hemangioma. The right hepatic vein was injured. Repairing time was about 8 minutes and hem-orrhaging was about 220 mL. In case 3 laparoscopic tri-segmentectomy for S 2-S 4 + S 5 , S 8 was performed for hepatic echinococcosis. The middle hepatic vein was injured. Repairing time was about 8 minutes and hemorrhaging was about 110 mL. In case 4 laparoscopic left lateral segmentectomy was performed for hepatocellular carcinoma. The left hepatic vein was injured. Repairing time was about 7 minutes and hemorrhaging was about 80 mL. All the HVIs were successfully repaired by a 4-0 N20 pro-lene. No complications were observed. Conclusions: Skillful stitching, experienced surgeons, and smooth cooperation can effectively handle HVI. However, conversion to laparotomy should be performed timely if uncontrolled hemor-rhaging occurs, to ensure patients safety.}
+      \field{title}{Hepatic Vein Injuries During Laparoscopic Hepatectomy}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb www.surgical-laparoscopy.com.
+      \endverb
+      \verb{url}
+      \verb www.surgical-laparoscopy.com.
+      \endverb
+      \keyw{hepatic vein injury,lapa-roscopic vessel repairing (Surg Laparosc Endosc Percutan Tech 2016;26:e29-e31),laparoscopic hepatectomy}
+    \endentry
+    \entry{Michele2021}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=3838b6a9251c66941f8af8a8b29178e9}{%
+           family={Michele},
+           familyi={M\bibinitperiod},
+           given={Ghielmetti},
+           giveni={G\bibinitperiod}}}%
+        {{hash=5fc02db32d845c44c8b8305c37de335f}{%
+           family={Michaela},
+           familyi={M\bibinitperiod},
+           given={Ramser},
+           giveni={R\bibinitperiod}}}%
+        {{hash=779eff50b880fbbaceb0720312321098}{%
+           family={Daniel},
+           familyi={D\bibinitperiod},
+           given={Oertli},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {EMH Schweizerischer Arzteverlag AG}%
+      }
+      \strng{namehash}{594e99e0b53005790de6688fefed35eb}
+      \strng{fullhash}{594e99e0b53005790de6688fefed35eb}
+      \strng{fullhashraw}{594e99e0b53005790de6688fefed35eb}
+      \strng{bibnamehash}{594e99e0b53005790de6688fefed35eb}
+      \strng{authorbibnamehash}{594e99e0b53005790de6688fefed35eb}
+      \strng{authornamehash}{594e99e0b53005790de6688fefed35eb}
+      \strng{authorfullhash}{594e99e0b53005790de6688fefed35eb}
+      \strng{authorfullhashraw}{594e99e0b53005790de6688fefed35eb}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{BACKGROUND: The past 25 years have seen the increased use of minimally invasive surgery. The development of these techniques has impacted the domain of liver surgery. This study aimed to describe the safety, feasibility, benefits and results of laparoscopic liver resection in a single tertiary care centre. METHODS: We reviewed the medical records of all patients who underwent liver surgery between January 2005 and December 2016 at the University Hospital of Basel. We selected all liver resections performed by laparoscopic surgery. To evaluate the results of the laparoscopic liver surgery, we chose the following data: the conversion rate from laparoscopy to open surgery, the median operating time, postoperative complications, the median length of stay following surgery and the median surgical margin in patients with malignant lesions. RESULTS: Of the 274 liver operations, 201 (73\%) were performed by open surgery and 73 (27\%) by laparoscopy. Sixty-nine laparoscopic liver resections were included in this study. The selected laparoscopic liver resections were performed in 65 patients: 38 men and 27 women. The median age was 59 (range 29-85) years. Forty resections were performed for malignant lesions and 29 (42\%) for benign diseases. The median operating time was 112 (range 50-247) minutes. The conversion rate was 19\%. The most common cause for conversion was bleeding (69\% of all conversions, 13\% of all patients). Postoperative complications occurred in 15 patients (22\%). The median hospitalisation time was 7.1 (range 2-23) days. Thirty-two patients (46.5\% of all patients) had hepatocellular carcinoma. The mean tumour size was 25.6 (range 5-55) mm. The median surgical margin was 9 mm. CONCLUSION: This study showed that in our centre laparoscopic liver surgery is a safe and effective treatment option for both benign and malignant liver lesions.}
+      \field{issn}{14243997}
+      \field{issue}{3-4}
+      \field{journaltitle}{Swiss Medical Weekly}
+      \field{month}{1}
+      \field{title}{Laparoscopic liver resection: A single-centre experience}
+      \field{volume}{151}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.4414/smw.2021.20391
+      \endverb
+      \keyw{HCC,Hepatocellular carcinoma,Laparoscopic hepatectomy,Laparoscopic liver resection}
+    \endentry
+    \entry{Otsuka2013}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=72979fa8be481bb826393d1a9b66ebe7}{%
+           family={Otsuka},
+           familyi={O\bibinitperiod},
+           given={Yuichiro},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0492b53daf6dbef8b4f8b5a59e8a0a6f}{%
+           family={Katagiri},
+           familyi={K\bibinitperiod},
+           given={Toshio},
+           giveni={T\bibinitperiod}}}%
+        {{hash=91e4d9dd27ecb33de0cd45b9d8b1386b}{%
+           family={Ishii},
+           familyi={I\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=bbccdbb454e3105dc674db150272f943}{%
+           family={Maeda},
+           familyi={M\bibinitperiod},
+           given={Tetsuya},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b47d9c7b065ef7823bc9cdb8abb89cd6}{%
+           family={Kubota},
+           familyi={K\bibinitperiod},
+           given={Yoshihisa},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e4d529e53d388d9604dd1255c32626d2}{%
+           family={Tamura},
+           familyi={T\bibinitperiod},
+           given={Akira},
+           giveni={A\bibinitperiod}}}%
+        {{hash=53e2a9bd16f04ab3f7294530ea5d6a37}{%
+           family={Tsuchiya},
+           familyi={T\bibinitperiod},
+           given={Masaru},
+           giveni={M\bibinitperiod}}}%
+        {{hash=73e7e58d4fb590ae47b2ba93a38bd736}{%
+           family={Kaneko},
+           familyi={K\bibinitperiod},
+           given={Hironori},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{47c1eb07c17ea3d631acccdf87d45fe8}
+      \strng{fullhash}{95b5d6f84617def09a48c30c8bb39936}
+      \strng{fullhashraw}{95b5d6f84617def09a48c30c8bb39936}
+      \strng{bibnamehash}{47c1eb07c17ea3d631acccdf87d45fe8}
+      \strng{authorbibnamehash}{47c1eb07c17ea3d631acccdf87d45fe8}
+      \strng{authornamehash}{47c1eb07c17ea3d631acccdf87d45fe8}
+      \strng{authorfullhash}{95b5d6f84617def09a48c30c8bb39936}
+      \strng{authorfullhashraw}{95b5d6f84617def09a48c30c8bb39936}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Laparoscopic hepatectomy (LH) has become popular as a surgical treatment for liver diseases, and numerous recent studies indicate that it is safe and has advantages in selected patients. Because of the magnified view offered by the laparoscope under pneumoperitoneal pressure, LH results in less bleeding than open laparotomy. However, gas embolism is an important concern that has been discussed in the literature, and experimental studies have shown that LH is associated with a high incidence of gas embolism. Major hepatectomies are done laparoscopically in some centers, even though the risk of gas embolism is believed to be higher than for minor hepatectomy due to the wide transection plane with dissection of major hepatic veins and long operative time. At many high-volume centers, LH is performed at a pneumoperitoneal pressure less than 12 mmHg, and reports indicate that the rate of clinically severe gas embolism is low. However, more studies will be necessary to elucidate the optimal pneumoperitoneal pressure and the incidence of gas embolism during LH. © 2012 Japanese Society of Hepato-Biliary-Pancreatic Surgery and Springer.}
+      \field{issn}{18686974}
+      \field{issue}{2}
+      \field{journaltitle}{Journal of Hepato-Biliary-Pancreatic Sciences}
+      \field{month}{2}
+      \field{title}{Gas embolism in laparoscopic hepatectomy: What is the optimal pneumoperitoneal pressure for laparoscopic major hepatectomy?}
+      \field{volume}{20}
+      \field{year}{2013}
+      \field{pages}{137\bibrangedash 140}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1007/s00534-012-0556-0
+      \endverb
+      \keyw{Gas embolism,Laparoscopic hepatectomy,Laparoscopic liver resection,Major hepatectomy,Pneumoperitoneum}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
