@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.2)  22 MAR 2025 21:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.2)  22 MAR 2025 22:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -66,8 +66,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/gensymb/gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box52
 \beforetitleunit=\skip51
@@ -190,7 +189,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip53
 )
-Package hyperref Info: Option `unicode' set `true' on input line 29.
+Package hyperref Info: Option `unicode' set `true' on input line 28.
  (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2025/01/25 v25.2 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
 \babel@savecnt=\count283
@@ -892,7 +891,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count452
 \@quotereset=\count453
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 104.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 103.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./main.aux
@@ -906,46 +905,46 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 LaTeX Font Warning: Font shape `T2A/lmr/m/n' undefined
 (Font)              using `T2A/cmr/m/n' instead on input line 16.
 
-(./Chapters/chapter_01_theory.aux) (./Chapters/chapter_02_practice.aux) (./Chapters/chapter_03_examples.aux))
+(./Chapters/preface.aux) (./Chapters/chapter_01_theory.aux) (./Chapters/chapter_02_practice.aux) (./Chapters/chapter_03_examples.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 104.
-LaTeX Font Info:    ... okay on input line 104.
-LaTeX Info: Redefining \celsius on input line 104.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 104.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Info: Redefining \celsius on input line 103.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 103.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 104.
-Package gensymb Info: Using \Omega for \ohm on input line 104.
+LaTeX Info: Redefining \ohm on input line 103.
+Package gensymb Info: Using \Omega for \ohm on input line 103.
 
 Package gensymb Warning: Not defining \micro.
 
-Package hyperref Info: Link coloring OFF on input line 104.
+Package hyperref Info: Link coloring OFF on input line 103.
 (./main.out) (./main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
 
-LaTeX Info: Redefining \th on input line 104.
+LaTeX Info: Redefining \th on input line 103.
 Package biblatex Info: Trying to load language 'ukrainian'...
 Package biblatex Info: ... file 'ukrainian.lbx' found.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/ukrainian.lbx
@@ -965,8 +964,8 @@ Package biblatex Warning: Biber reported the following issues
 (biblatex)                - Range field 'pages' in entry 'Robles-Campos2019' is malformed, falling back to literal.
 
 )
-Package biblatex Info: Reference section=0 on input line 104.
-Package biblatex Info: Reference segment=0 on input line 104.
+Package biblatex Info: Reference section=0 on input line 103.
+Package biblatex Info: Reference segment=0 on input line 103.
  (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count454
@@ -986,32 +985,32 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Trying to load font information for T2A+fcm on input line 110.
+LaTeX Font Info:    Trying to load font information for T2A+fcm on input line 109.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/cm-lgc/t2afcm.fd
 File: t2afcm.fd 2005/05/07 Fontinst v1.928 font definitions for T2A/fcm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 123.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 122.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 123.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 122.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 123.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 122.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 123.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 122.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 123.
+(Font)              <12> on input line 122.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 123.
+(Font)              <8> on input line 122.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 123.
+(Font)              <6> on input line 122.
 
 
 LaTeX Warning: No \author given.
@@ -1025,12 +1024,35 @@ LaTeX Warning: No \author given.
 
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `Chapters/preface.aux'.
+
+ (./Chapters/preface.tex
+<Illustrations/Preface/image1.png, id=738, 1027.84pt x 1027.84pt>
+File: Illustrations/Preface/image1.png Graphic file (type png)
+<use Illustrations/Preface/image1.png>
+Package pdftex.def Info: Illustrations/Preface/image1.png  used on input line 6.
+(pdftex.def)             Requested size: 90.0pt x 89.99223pt.
+
 
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/sl' undefined
-(Font)              using `T2A/lmr/m/n' instead on input line 130.
+(Font)              using `T2A/lmr/m/n' instead on input line 10.
 
 [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}
+
+ <./Illustrations/Preface/image1.png>]
+<Illustrations/Preface/image2.png, id=745, 1027.84pt x 1027.84pt>
+File: Illustrations/Preface/image2.png Graphic file (type png)
+<use Illustrations/Preface/image2.png>
+Package pdftex.def Info: Illustrations/Preface/image2.png  used on input line 15.
+(pdftex.def)             Requested size: 90.0pt x 89.99223pt.
+)
+
+[3 <./Illustrations/Preface/image2.png>]
+
+[4
+
+
 
 ]
 
@@ -1046,21 +1068,21 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 3.
 
 
-[3]
-
-[4]
-
 [5]
 
-[6])
+[6]
+
+[7]
+
+[8])
 \tf@toc=\write8
 \openout8 = `main.toc'.
 
 
 
-[7]
+[9]
 
-[8
+[10
 
 ]
 No file main.acr.
@@ -1091,7 +1113,7 @@ Overfull \hbox (13.23079pt too wide) in paragraph at lines 8--9
 
 
 [3]
-<Illustrations/Chapter_01/PubMed_publications.jpg, id=1002, 1027.84pt x 578.16pt>
+<Illustrations/Chapter_01/PubMed_publications.jpg, id=1014, 1027.84pt x 578.16pt>
 File: Illustrations/Chapter_01/PubMed_publications.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/PubMed_publications.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/PubMed_publications.jpg  used on input line 23.
@@ -1123,7 +1145,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [7]
-<Illustrations/Chapter_01/LeftLobe_Horizontal.jpg, id=1109, 3320.405pt x 1211.52625pt>
+<Illustrations/Chapter_01/LeftLobe_Horizontal.jpg, id=1120, 3320.405pt x 1211.52625pt>
 File: Illustrations/Chapter_01/LeftLobe_Horizontal.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/LeftLobe_Horizontal.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/LeftLobe_Horizontal.jpg  used on input line 85.
@@ -1143,7 +1165,7 @@ Overfull \hbox (14.7351pt too wide) has occurred while \output is active
  []
 
 [8]
-<Illustrations/Chapter_01/RightLobe_Horizontal.png, id=1132, 597.6729pt x 240.1773pt>
+<Illustrations/Chapter_01/RightLobe_Horizontal.png, id=1144, 597.6729pt x 240.1773pt>
 File: Illustrations/Chapter_01/RightLobe_Horizontal.png Graphic file (type png)
 <use Illustrations/Chapter_01/RightLobe_Horizontal.png>
 Package pdftex.def Info: Illustrations/Chapter_01/RightLobe_Horizontal.png  used on input line 101.
@@ -1158,7 +1180,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [9{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-lgc/8r-mod.enc} <./Illustrations/Chapter_01/LeftLobe_Horizontal.jpg>]
-<Illustrations/Chapter_01/Complex_localisation_Sg7.png, id=1170, 415.7934pt x 345.6915pt>
+<Illustrations/Chapter_01/Complex_localisation_Sg7.png, id=1182, 415.7934pt x 345.6915pt>
 File: Illustrations/Chapter_01/Complex_localisation_Sg7.png Graphic file (type png)
 <use Illustrations/Chapter_01/Complex_localisation_Sg7.png>
 Package pdftex.def Info: Illustrations/Chapter_01/Complex_localisation_Sg7.png  used on input line 127.
@@ -1167,7 +1189,7 @@ Package pdftex.def Info: Illustrations/Chapter_01/Complex_localisation_Sg7.png  
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Illustrations/Chapter_01/Complex_localisation_Sg8.png, id=1174, 535.0389pt x 345.6915pt>
+<Illustrations/Chapter_01/Complex_localisation_Sg8.png, id=1186, 535.0389pt x 345.6915pt>
 File: Illustrations/Chapter_01/Complex_localisation_Sg8.png Graphic file (type png)
 <use Illustrations/Chapter_01/Complex_localisation_Sg8.png>
 Package pdftex.def Info: Illustrations/Chapter_01/Complex_localisation_Sg8.png  used on input line 140.
@@ -1192,7 +1214,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [12 <./Illustrations/Chapter_01/Complex_localisation_Sg8.png>]
-<Illustrations/Chapter_01/Vascular_resection.png, id=1260, 542.5068pt x 701.7417pt>
+<Illustrations/Chapter_01/Vascular_resection.png, id=1271, 542.5068pt x 701.7417pt>
 File: Illustrations/Chapter_01/Vascular_resection.png Graphic file (type png)
 <use Illustrations/Chapter_01/Vascular_resection.png>
 Package pdftex.def Info: Illustrations/Chapter_01/Vascular_resection.png  used on input line 172.
@@ -1240,7 +1262,7 @@ Overfull \hbox (56.59456pt too wide) has occurred while \output is active
  []
 
 [17]
-<Illustrations/Chapter_01/HCC_vascular_invasion.png, id=1414, 578.8827pt x 522.5121pt>
+<Illustrations/Chapter_01/HCC_vascular_invasion.png, id=1425, 578.8827pt x 522.5121pt>
 File: Illustrations/Chapter_01/HCC_vascular_invasion.png Graphic file (type png)
 <use Illustrations/Chapter_01/HCC_vascular_invasion.png>
 Package pdftex.def Info: Illustrations/Chapter_01/HCC_vascular_invasion.png  used on input line 241.
@@ -1253,7 +1275,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [18 <./Illustrations/Chapter_01/HCC_vascular_invasion.png>]
-<Illustrations/Chapter_01/HCC-Sg5.png, id=1447, 611.4042pt x 564.9105pt>
+<Illustrations/Chapter_01/HCC-Sg5.png, id=1459, 611.4042pt x 564.9105pt>
 File: Illustrations/Chapter_01/HCC-Sg5.png Graphic file (type png)
 <use Illustrations/Chapter_01/HCC-Sg5.png>
 Package pdftex.def Info: Illustrations/Chapter_01/HCC-Sg5.png  used on input line 261.
@@ -1280,7 +1302,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [20 <./Illustrations/Chapter_01/HCC-Sg5.png>]
-<Illustrations/Chapter_01/IHCC.png, id=1501, 577.6782pt x 487.3407pt>
+<Illustrations/Chapter_01/IHCC.png, id=1511, 577.6782pt x 487.3407pt>
 File: Illustrations/Chapter_01/IHCC.png Graphic file (type png)
 <use Illustrations/Chapter_01/IHCC.png>
 Package pdftex.def Info: Illustrations/Chapter_01/IHCC.png  used on input line 292.
@@ -1321,7 +1343,7 @@ Overfull \hbox (56.59456pt too wide) has occurred while \output is active
  []
 
 [23]
-<Illustrations/Chapter_01/GBC.png, id=1572, 586.1097pt x 397.485pt>
+<Illustrations/Chapter_01/GBC.png, id=1582, 586.1097pt x 397.485pt>
 File: Illustrations/Chapter_01/GBC.png Graphic file (type png)
 <use Illustrations/Chapter_01/GBC.png>
 Package pdftex.def Info: Illustrations/Chapter_01/GBC.png  used on input line 320.
@@ -1334,7 +1356,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [24 <./Illustrations/Chapter_01/GBC.png>]
-<Illustrations/Chapter_01/CRLM1.png, id=1593, 552.6246pt x 614.5359pt>
+<Illustrations/Chapter_01/CRLM1.png, id=1603, 552.6246pt x 614.5359pt>
 File: Illustrations/Chapter_01/CRLM1.png Graphic file (type png)
 <use Illustrations/Chapter_01/CRLM1.png>
 Package pdftex.def Info: Illustrations/Chapter_01/CRLM1.png  used on input line 347.
@@ -1362,7 +1384,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [26 <./Illustrations/Chapter_01/CRLM1.png>]
-<Illustrations/Chapter_01/CRLM2.png, id=1650, 498.1812pt x 461.5644pt>
+<Illustrations/Chapter_01/CRLM2.png, id=1660, 498.1812pt x 461.5644pt>
 File: Illustrations/Chapter_01/CRLM2.png Graphic file (type png)
 <use Illustrations/Chapter_01/CRLM2.png>
 Package pdftex.def Info: Illustrations/Chapter_01/CRLM2.png  used on input line 366.
@@ -1389,7 +1411,7 @@ Overfull \hbox (56.59456pt too wide) has occurred while \output is active
  []
 
 [29]
-<Illustrations/Chapter_01/HCA.png, id=1725, 540.0978pt x 471.6822pt>
+<Illustrations/Chapter_01/HCA.png, id=1735, 540.0978pt x 471.6822pt>
 File: Illustrations/Chapter_01/HCA.png Graphic file (type png)
 <use Illustrations/Chapter_01/HCA.png>
 Package pdftex.def Info: Illustrations/Chapter_01/HCA.png  used on input line 405.
@@ -1409,7 +1431,7 @@ Overfull \hbox (56.59456pt too wide) has occurred while \output is active
  []
 
 [31]
-<Illustrations/Chapter_01/ECC-Sg6.png, id=1776, 559.6107pt x 310.0383pt>
+<Illustrations/Chapter_01/ECC-Sg6.png, id=1786, 559.6107pt x 310.0383pt>
 File: Illustrations/Chapter_01/ECC-Sg6.png Graphic file (type png)
 <use Illustrations/Chapter_01/ECC-Sg6.png>
 Package pdftex.def Info: Illustrations/Chapter_01/ECC-Sg6.png  used on input line 436.
@@ -1432,12 +1454,12 @@ Overfull \hbox (60.97328pt too wide) has occurred while \output is active
  []
 
 [33]
-<Illustrations/Chapter_01/Couinaud.jpg, id=1807, 2319.66624pt x 1603.9925pt>
+<Illustrations/Chapter_01/Couinaud.jpg, id=1818, 2319.66624pt x 1603.9925pt>
 File: Illustrations/Chapter_01/Couinaud.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Couinaud.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Couinaud.jpg  used on input line 467.
 (pdftex.def)             Requested size: 323.9978pt x 224.01897pt.
-<Illustrations/Chapter_01/Healey.jpg, id=1809, 2319.66624pt x 1603.9925pt>
+<Illustrations/Chapter_01/Healey.jpg, id=1820, 2319.66624pt x 1603.9925pt>
 File: Illustrations/Chapter_01/Healey.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Healey.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Healey.jpg  used on input line 481.
@@ -1450,7 +1472,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [34 <./Illustrations/Chapter_01/Couinaud.jpg>]
-<Illustrations/Chapter_01/Brisbane.jpg, id=1818, 2870.725pt x 3409.73875pt>
+<Illustrations/Chapter_01/Brisbane.jpg, id=1829, 2870.725pt x 3409.73875pt>
 File: Illustrations/Chapter_01/Brisbane.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Brisbane.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Brisbane.jpg  used on input line 494.
@@ -1474,7 +1496,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [36 <./Illustrations/Chapter_01/Brisbane.jpg>]
-<Illustrations/Chapter_01/External landmarks_Ligaments.png, id=1833, 597.6729pt x 357.0138pt>
+<Illustrations/Chapter_01/External landmarks_Ligaments.png, id=1843, 597.6729pt x 357.0138pt>
 File: Illustrations/Chapter_01/External landmarks_Ligaments.png Graphic file (type png)
 <use Illustrations/Chapter_01/External landmarks_Ligaments.png>
 Package pdftex.def Info: Illustrations/Chapter_01/External landmarks_Ligaments.png  used on input line 511.
@@ -1484,7 +1506,7 @@ Overfull \hbox (1.02301pt too wide) in paragraph at lines 522--523
 \T2A/fcm/m/n/10.95 âî-ði-òíà âå-íà, ïå-÷ií-êî-âà àð-òå-ðiÿ, ãië-êè áëó-êà-þ-÷î-ãî íåð-âà, à âè-õî-äÿòü æîâ-
  []
 
-<Illustrations/Chapter_01/External landmarks_PDL.png, id=1837, 597.6729pt x 165.4983pt>
+<Illustrations/Chapter_01/External landmarks_PDL.png, id=1847, 597.6729pt x 165.4983pt>
 File: Illustrations/Chapter_01/External landmarks_PDL.png Graphic file (type png)
 <use Illustrations/Chapter_01/External landmarks_PDL.png>
 Package pdftex.def Info: Illustrations/Chapter_01/External landmarks_PDL.png  used on input line 527.
@@ -1503,7 +1525,7 @@ Overfull \hbox (60.97328pt too wide) has occurred while \output is active
  []
 
 [37 <./Illustrations/Chapter_01/External landmarks_Ligaments.png>]
-<Illustrations/Chapter_01/Gates.jpg, id=1849, 3115.64pt x 2288.55pt>
+<Illustrations/Chapter_01/Gates.jpg, id=1859, 3115.64pt x 2288.55pt>
 File: Illustrations/Chapter_01/Gates.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Gates.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Gates.jpg  used on input line 544.
@@ -1527,7 +1549,7 @@ Overfull \hbox (60.97328pt too wide) has occurred while \output is active
  []
 
 [39 <./Illustrations/Chapter_01/Gates.jpg>]
-<Illustrations/Chapter_01/Sg1.jpg, id=1866, 2541.495pt x 2103.86pt>
+<Illustrations/Chapter_01/Sg1.jpg, id=1877, 2541.495pt x 2103.86pt>
 File: Illustrations/Chapter_01/Sg1.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Sg1.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Sg1.jpg  used on input line 563.
@@ -3262,7 +3284,7 @@ Overfull \hbox (62.64084pt too wide) has occurred while \output is active
 \T2A/lmtt/m/n/10.95 114  3.  ÒÅÕÍIÊÀ ÎÊÐÅÌÈÕ ÂÈÄIÂ ËÀÏÀÐÎÑÊÎÏI×ÍÈÕ ÐÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
  []
 
-[114] (./main.aux (./Chapters/chapter_01_theory.aux) (./Chapters/chapter_02_practice.aux) (./Chapters/chapter_03_examples.aux))
+[114] (./main.aux (./Chapters/preface.aux) (./Chapters/chapter_01_theory.aux) (./Chapters/chapter_02_practice.aux) (./Chapters/chapter_03_examples.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -3278,10 +3300,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28546 strings out of 473201
- 527826 string characters out of 5716121
- 1647843 words of memory out of 5000000
- 50677 multiletter control sequences out of 15000+600000
+ 28589 strings out of 473201
+ 529210 string characters out of 5716121
+ 1651570 words of memory out of 5000000
+ 50711 multiletter control sequences out of 15000+600000
  609569 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,18n,93p,3709b,2221s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3400,10 +3422,10 @@ pdfTeX warning (dest): name{glo:olr} has been referenced but does not exist, rep
 pdfTeX warning (dest): name{glo:llr} has been referenced but does not exist, replaced by a fixed one
 
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-lgc/fcmb6z.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-lgc/fcmbi6z.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-lgc/fcmr6z.pfb><</usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-lgc/fcmr8a.pfb>></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-lgc/fcmri6z.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on main.pdf (122 pages, 114707016 bytes).
+Output written on main.pdf (124 pages, 119265167 bytes).
 PDF statistics:
- 3075 PDF objects out of 3580 (max. 8388607)
- 2849 compressed objects within 29 object streams
- 733 named destinations out of 1000 (max. 500000)
- 1554 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3085 PDF objects out of 3580 (max. 8388607)
+ 2855 compressed objects within 29 object streams
+ 735 named destinations out of 1000 (max. 500000)
+ 1564 words of extra memory for PDF output out of 10000 (max. 10000000)
 
