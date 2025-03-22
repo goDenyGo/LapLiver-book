@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.2)  22 MAR 2025 17:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.2)  22 MAR 2025 21:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1046,18 +1046,27 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 3.
 
 
-[3])
+[3]
+
+[4]
+
+[5]
+
+[6])
 \tf@toc=\write8
 \openout8 = `main.toc'.
 
 
 
-[4]
+[7]
+
+[8
+
+]
 No file main.acr.
 
 
 [1
-
 
 ]
 \openout2 = `Chapters/chapter_01_theory.aux'.
@@ -1082,7 +1091,7 @@ Overfull \hbox (13.23079pt too wide) in paragraph at lines 8--9
 
 
 [3]
-<Illustrations/Chapter_01/PubMed_publications.jpg, id=378, 1027.84pt x 578.16pt>
+<Illustrations/Chapter_01/PubMed_publications.jpg, id=1002, 1027.84pt x 578.16pt>
 File: Illustrations/Chapter_01/PubMed_publications.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/PubMed_publications.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/PubMed_publications.jpg  used on input line 23.
@@ -1114,7 +1123,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [7]
-<Illustrations/Chapter_01/LeftLobe_Horizontal.jpg, id=483, 3320.405pt x 1211.52625pt>
+<Illustrations/Chapter_01/LeftLobe_Horizontal.jpg, id=1109, 3320.405pt x 1211.52625pt>
 File: Illustrations/Chapter_01/LeftLobe_Horizontal.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/LeftLobe_Horizontal.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/LeftLobe_Horizontal.jpg  used on input line 85.
@@ -1134,7 +1143,7 @@ Overfull \hbox (14.7351pt too wide) has occurred while \output is active
  []
 
 [8]
-<Illustrations/Chapter_01/RightLobe_Horizontal.png, id=507, 597.6729pt x 240.1773pt>
+<Illustrations/Chapter_01/RightLobe_Horizontal.png, id=1132, 597.6729pt x 240.1773pt>
 File: Illustrations/Chapter_01/RightLobe_Horizontal.png Graphic file (type png)
 <use Illustrations/Chapter_01/RightLobe_Horizontal.png>
 Package pdftex.def Info: Illustrations/Chapter_01/RightLobe_Horizontal.png  used on input line 101.
@@ -1149,7 +1158,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [9{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-lgc/8r-mod.enc} <./Illustrations/Chapter_01/LeftLobe_Horizontal.jpg>]
-<Illustrations/Chapter_01/Complex_localisation_Sg7.png, id=545, 415.7934pt x 345.6915pt>
+<Illustrations/Chapter_01/Complex_localisation_Sg7.png, id=1170, 415.7934pt x 345.6915pt>
 File: Illustrations/Chapter_01/Complex_localisation_Sg7.png Graphic file (type png)
 <use Illustrations/Chapter_01/Complex_localisation_Sg7.png>
 Package pdftex.def Info: Illustrations/Chapter_01/Complex_localisation_Sg7.png  used on input line 127.
@@ -1158,7 +1167,7 @@ Package pdftex.def Info: Illustrations/Chapter_01/Complex_localisation_Sg7.png  
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Illustrations/Chapter_01/Complex_localisation_Sg8.png, id=549, 535.0389pt x 345.6915pt>
+<Illustrations/Chapter_01/Complex_localisation_Sg8.png, id=1174, 535.0389pt x 345.6915pt>
 File: Illustrations/Chapter_01/Complex_localisation_Sg8.png Graphic file (type png)
 <use Illustrations/Chapter_01/Complex_localisation_Sg8.png>
 Package pdftex.def Info: Illustrations/Chapter_01/Complex_localisation_Sg8.png  used on input line 140.
@@ -1183,7 +1192,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [12 <./Illustrations/Chapter_01/Complex_localisation_Sg8.png>]
-<Illustrations/Chapter_01/Vascular_resection.png, id=635, 542.5068pt x 701.7417pt>
+<Illustrations/Chapter_01/Vascular_resection.png, id=1260, 542.5068pt x 701.7417pt>
 File: Illustrations/Chapter_01/Vascular_resection.png Graphic file (type png)
 <use Illustrations/Chapter_01/Vascular_resection.png>
 Package pdftex.def Info: Illustrations/Chapter_01/Vascular_resection.png  used on input line 172.
@@ -1231,7 +1240,7 @@ Overfull \hbox (56.59456pt too wide) has occurred while \output is active
  []
 
 [17]
-<Illustrations/Chapter_01/HCC_vascular_invasion.png, id=789, 578.8827pt x 522.5121pt>
+<Illustrations/Chapter_01/HCC_vascular_invasion.png, id=1414, 578.8827pt x 522.5121pt>
 File: Illustrations/Chapter_01/HCC_vascular_invasion.png Graphic file (type png)
 <use Illustrations/Chapter_01/HCC_vascular_invasion.png>
 Package pdftex.def Info: Illustrations/Chapter_01/HCC_vascular_invasion.png  used on input line 241.
@@ -1244,7 +1253,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [18 <./Illustrations/Chapter_01/HCC_vascular_invasion.png>]
-<Illustrations/Chapter_01/HCC-Sg5.png, id=822, 611.4042pt x 564.9105pt>
+<Illustrations/Chapter_01/HCC-Sg5.png, id=1447, 611.4042pt x 564.9105pt>
 File: Illustrations/Chapter_01/HCC-Sg5.png Graphic file (type png)
 <use Illustrations/Chapter_01/HCC-Sg5.png>
 Package pdftex.def Info: Illustrations/Chapter_01/HCC-Sg5.png  used on input line 261.
@@ -1271,7 +1280,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [20 <./Illustrations/Chapter_01/HCC-Sg5.png>]
-<Illustrations/Chapter_01/IHCC.png, id=875, 577.6782pt x 487.3407pt>
+<Illustrations/Chapter_01/IHCC.png, id=1501, 577.6782pt x 487.3407pt>
 File: Illustrations/Chapter_01/IHCC.png Graphic file (type png)
 <use Illustrations/Chapter_01/IHCC.png>
 Package pdftex.def Info: Illustrations/Chapter_01/IHCC.png  used on input line 292.
@@ -1312,7 +1321,7 @@ Overfull \hbox (56.59456pt too wide) has occurred while \output is active
  []
 
 [23]
-<Illustrations/Chapter_01/GBC.png, id=946, 586.1097pt x 397.485pt>
+<Illustrations/Chapter_01/GBC.png, id=1572, 586.1097pt x 397.485pt>
 File: Illustrations/Chapter_01/GBC.png Graphic file (type png)
 <use Illustrations/Chapter_01/GBC.png>
 Package pdftex.def Info: Illustrations/Chapter_01/GBC.png  used on input line 320.
@@ -1325,7 +1334,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [24 <./Illustrations/Chapter_01/GBC.png>]
-<Illustrations/Chapter_01/CRLM1.png, id=967, 552.6246pt x 614.5359pt>
+<Illustrations/Chapter_01/CRLM1.png, id=1593, 552.6246pt x 614.5359pt>
 File: Illustrations/Chapter_01/CRLM1.png Graphic file (type png)
 <use Illustrations/Chapter_01/CRLM1.png>
 Package pdftex.def Info: Illustrations/Chapter_01/CRLM1.png  used on input line 347.
@@ -1353,7 +1362,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [26 <./Illustrations/Chapter_01/CRLM1.png>]
-<Illustrations/Chapter_01/CRLM2.png, id=1024, 498.1812pt x 461.5644pt>
+<Illustrations/Chapter_01/CRLM2.png, id=1650, 498.1812pt x 461.5644pt>
 File: Illustrations/Chapter_01/CRLM2.png Graphic file (type png)
 <use Illustrations/Chapter_01/CRLM2.png>
 Package pdftex.def Info: Illustrations/Chapter_01/CRLM2.png  used on input line 366.
@@ -1380,7 +1389,7 @@ Overfull \hbox (56.59456pt too wide) has occurred while \output is active
  []
 
 [29]
-<Illustrations/Chapter_01/HCA.png, id=1099, 540.0978pt x 471.6822pt>
+<Illustrations/Chapter_01/HCA.png, id=1725, 540.0978pt x 471.6822pt>
 File: Illustrations/Chapter_01/HCA.png Graphic file (type png)
 <use Illustrations/Chapter_01/HCA.png>
 Package pdftex.def Info: Illustrations/Chapter_01/HCA.png  used on input line 405.
@@ -1400,7 +1409,7 @@ Overfull \hbox (56.59456pt too wide) has occurred while \output is active
  []
 
 [31]
-<Illustrations/Chapter_01/ECC-Sg6.png, id=1150, 559.6107pt x 310.0383pt>
+<Illustrations/Chapter_01/ECC-Sg6.png, id=1776, 559.6107pt x 310.0383pt>
 File: Illustrations/Chapter_01/ECC-Sg6.png Graphic file (type png)
 <use Illustrations/Chapter_01/ECC-Sg6.png>
 Package pdftex.def Info: Illustrations/Chapter_01/ECC-Sg6.png  used on input line 436.
@@ -1423,12 +1432,12 @@ Overfull \hbox (60.97328pt too wide) has occurred while \output is active
  []
 
 [33]
-<Illustrations/Chapter_01/Couinaud.jpg, id=1183, 2319.66624pt x 1603.9925pt>
+<Illustrations/Chapter_01/Couinaud.jpg, id=1807, 2319.66624pt x 1603.9925pt>
 File: Illustrations/Chapter_01/Couinaud.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Couinaud.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Couinaud.jpg  used on input line 467.
 (pdftex.def)             Requested size: 323.9978pt x 224.01897pt.
-<Illustrations/Chapter_01/Healey.jpg, id=1185, 2319.66624pt x 1603.9925pt>
+<Illustrations/Chapter_01/Healey.jpg, id=1809, 2319.66624pt x 1603.9925pt>
 File: Illustrations/Chapter_01/Healey.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Healey.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Healey.jpg  used on input line 481.
@@ -1441,7 +1450,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [34 <./Illustrations/Chapter_01/Couinaud.jpg>]
-<Illustrations/Chapter_01/Brisbane.jpg, id=1194, 2870.725pt x 3409.73875pt>
+<Illustrations/Chapter_01/Brisbane.jpg, id=1818, 2870.725pt x 3409.73875pt>
 File: Illustrations/Chapter_01/Brisbane.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Brisbane.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Brisbane.jpg  used on input line 494.
@@ -1465,7 +1474,7 @@ Overfull \hbox (20.17905pt too wide) has occurred while \output is active
  []
 
 [36 <./Illustrations/Chapter_01/Brisbane.jpg>]
-<Illustrations/Chapter_01/External landmarks_Ligaments.png, id=1207, 597.6729pt x 357.0138pt>
+<Illustrations/Chapter_01/External landmarks_Ligaments.png, id=1833, 597.6729pt x 357.0138pt>
 File: Illustrations/Chapter_01/External landmarks_Ligaments.png Graphic file (type png)
 <use Illustrations/Chapter_01/External landmarks_Ligaments.png>
 Package pdftex.def Info: Illustrations/Chapter_01/External landmarks_Ligaments.png  used on input line 511.
@@ -1475,7 +1484,7 @@ Overfull \hbox (1.02301pt too wide) in paragraph at lines 522--523
 \T2A/fcm/m/n/10.95 âî-ği-òíà âå-íà, ïå-÷ií-êî-âà àğ-òå-ğiÿ, ãië-êè áëó-êà-ş-÷î-ãî íåğ-âà, à âè-õî-äÿòü æîâ-
  []
 
-<Illustrations/Chapter_01/External landmarks_PDL.png, id=1211, 597.6729pt x 165.4983pt>
+<Illustrations/Chapter_01/External landmarks_PDL.png, id=1837, 597.6729pt x 165.4983pt>
 File: Illustrations/Chapter_01/External landmarks_PDL.png Graphic file (type png)
 <use Illustrations/Chapter_01/External landmarks_PDL.png>
 Package pdftex.def Info: Illustrations/Chapter_01/External landmarks_PDL.png  used on input line 527.
@@ -1494,7 +1503,7 @@ Overfull \hbox (60.97328pt too wide) has occurred while \output is active
  []
 
 [37 <./Illustrations/Chapter_01/External landmarks_Ligaments.png>]
-<Illustrations/Chapter_01/Gates.jpg, id=1223, 3115.64pt x 2288.55pt>
+<Illustrations/Chapter_01/Gates.jpg, id=1849, 3115.64pt x 2288.55pt>
 File: Illustrations/Chapter_01/Gates.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Gates.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Gates.jpg  used on input line 544.
@@ -1518,7 +1527,7 @@ Overfull \hbox (60.97328pt too wide) has occurred while \output is active
  []
 
 [39 <./Illustrations/Chapter_01/Gates.jpg>]
-<Illustrations/Chapter_01/Sg1.jpg, id=1241, 2541.495pt x 2103.86pt>
+<Illustrations/Chapter_01/Sg1.jpg, id=1866, 2541.495pt x 2103.86pt>
 File: Illustrations/Chapter_01/Sg1.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Sg1.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Sg1.jpg  used on input line 563.
@@ -3083,9 +3092,6 @@ Overfull \hbox (32.86086pt too wide) has occurred while \output is active
 Package biblatex Info: Reference section=3 on input line 3.
 Package biblatex Info: Setting label 'refsection:3' on input line 3.
 
-Underfull \vbox (badness 1009) has occurred while \output is active []
-
-
 
 [87
 
@@ -3093,18 +3099,13 @@ Underfull \vbox (badness 1009) has occurred while \output is active []
 
 
 ]
-Overfull \hbox (3.47443pt too wide) in paragraph at lines 29--30
-[]\T2A/fcm/m/n/10.95 Âíóòğiøíüîïå÷iíêîâà õî-ëàí-ãi-î-êàğ-öè-íî-ìà, ëî-êà-ëi-çî-âà-íà â ïğà-âié äî-
+Overfull \hbox (4.65637pt too wide) in paragraph at lines 37--38
+[]\T2A/fcm/m/n/10.95 Âèêîğèñòàííÿ ïå-ğå-äî-ïå-ğà-öié-íî-ãî 3D-ìîäåëşâàííÿ (çà ìî-æëè-âî-ñòi). 
  []
 
 
-Overfull \hbox (2.67673pt too wide) in paragraph at lines 47--48
-[]\T2A/fcm/b/n/10.95 Îíêîëîãi÷íà îöií-êà: \T2A/fcm/m/n/10.95 BCLC-ñòàäişâàííÿ, ÊÒ/ÌĞÒ ç êîí-òğà-ñòîì. 
- []
-
-
-Overfull \hbox (6.14926pt too wide) in paragraph at lines 60--61
-[]\T2A/fcm/b/n/10.95 Iíñòğóìåíòè: \T2A/fcm/m/n/10.95 åí-äî-ñêî-ïi-÷íèé óëü-òğà-çâóê, CUSA, Thunderbeat, çøè-
+Overfull \hbox (2.98393pt too wide) in paragraph at lines 43--44
+[]\T2A/fcm/b/n/10.95 Iíñòğóìåíòè: \T2A/fcm/m/n/10.95 óëü-òğà-çâó-êî-âèé ñêàëü-ïåëü (Harmonic, Thunderbeat),
  []
 
 
@@ -3114,14 +3115,154 @@ Overfull \hbox (57.1969pt too wide) has occurred while \output is active
 \T2A/lmtt/m/n/10.95 88  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
  []
 
-[88{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+[88]
+Overfull \hbox (5.57907pt too wide) in paragraph at lines 72--73
+[]\T2A/fcm/b/n/10.95 Êğîâîòå÷à: \T2A/fcm/m/n/10.95 çà-ñòî-ñó-âà-í-íÿ ái-ïî-ëÿğ-íî¨ êî-à-ãó-ëÿ-öi¨, ãå-ìî-ñòà-òè-÷íèõ ìà-
+ []
 
-LaTeX Warning: Empty bibliography on input line 76.
 
-Package biblatex Info: Reference section=0 on input line 77.
+Overfull \hbox (1.43707pt too wide) in paragraph at lines 94--97
+\T2A/fcm/m/n/10.95 - Ñóá-ñå-ãìåí-òàğ-íà åíó-êëå-î-ğå-çå-êöiÿ ¹ åôå-êòèâ-íîş îğ-ãà-íî-çáå-ği-ãà-ş-÷îş ïğî-
+ []
+
+
+
+[89]
+
+
+Overfull \hbox (57.1969pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 90  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[90]
+
+[91]
+
+
+Overfull \hbox (57.1969pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 92  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[92]
+
+[93]
+
+
+Overfull \hbox (57.1969pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 94  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[94]
+
+[95]
+
+
+Overfull \hbox (57.1969pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 96  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[96]
+
+[97]
+
+
+Overfull \hbox (57.1969pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 98  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[98]
+
+[99]
+
+
+Overfull \hbox (62.64084pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 100  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[100]
+
+[101]
+
+
+Overfull \hbox (62.64084pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 102  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[102]
+
+[103]
+
+
+Overfull \hbox (62.64084pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 104  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[104]
+
+[105]
+Overfull \hbox (3.47443pt too wide) in paragraph at lines 727--728
+[]\T2A/fcm/m/n/10.95 Âíóòğiøíüîïå÷iíêîâà õî-ëàí-ãi-î-êàğ-öè-íî-ìà, ëî-êà-ëi-çî-âà-íà â ïğà-âié äî-
+ []
+
+
+Overfull \hbox (2.67673pt too wide) in paragraph at lines 745--746
+[]\T2A/fcm/b/n/10.95 Îíêîëîãi÷íà îöií-êà: \T2A/fcm/m/n/10.95 BCLC-ñòàäişâàííÿ, ÊÒ/ÌĞÒ ç êîí-òğà-ñòîì. 
+ []
+
+
+
+
+Overfull \hbox (62.64084pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 106  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[106{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+Overfull \hbox (6.14926pt too wide) in paragraph at lines 758--759
+[]\T2A/fcm/b/n/10.95 Iíñòğóìåíòè: \T2A/fcm/m/n/10.95 åí-äî-ñêî-ïi-÷íèé óëü-òğà-çâóê, CUSA, Thunderbeat, çøè-
+ []
+
+
+
+[107]
+
+
+Overfull \hbox (62.64084pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 108  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[108]
+
+[109]
+
+
+Overfull \hbox (62.64084pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 110  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[110]
+
+[111]
+
+
+Overfull \hbox (62.64084pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 112  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[112]
+
+[113]
+
+LaTeX Warning: Empty bibliography on input line 1070.
+
+Package biblatex Info: Reference section=0 on input line 1071.
 )
 
-[89] (./main.aux (./Chapters/chapter_01_theory.aux) (./Chapters/chapter_02_practice.aux) (./Chapters/chapter_03_examples.aux))
+
+Overfull \hbox (62.64084pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 114  3.  ÒÅÕÍIÊÀ ÎÊĞÅÌÈÕ ÂÈÄIÂ ËÀÏÀĞÎÑÊÎÏI×ÍÈÕ ĞÅÇÅÊÖIÉ ÏÅ×IÍÊÈ
+ []
+
+[114] (./main.aux (./Chapters/chapter_01_theory.aux) (./Chapters/chapter_02_practice.aux) (./Chapters/chapter_03_examples.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -3131,16 +3272,16 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 34896687DC6AC2F34FCF57FB51D9F0DB;19202.
+(rerunfilecheck)             Checksum: B93B3DDB3ABB1391299D34E05F55C795;51453.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28158 strings out of 473201
- 521379 string characters out of 5716121
- 1648789 words of memory out of 5000000
- 50556 multiletter control sequences out of 15000+600000
+ 28546 strings out of 473201
+ 527826 string characters out of 5716121
+ 1647843 words of memory out of 5000000
+ 50677 multiletter control sequences out of 15000+600000
  609569 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,18n,93p,3709b,2221s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3259,10 +3400,10 @@ pdfTeX warning (dest): name{glo:olr} has been referenced but does not exist, rep
 pdfTeX warning (dest): name{glo:llr} has been referenced but does not exist, replaced by a fixed one
 
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-lgc/fcmb6z.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-lgc/fcmbi6z.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-lgc/fcmr6z.pfb><</usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-lgc/fcmr8a.pfb>></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-lgc/fcmri6z.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb>
-Output written on main.pdf (93 pages, 114647972 bytes).
+Output written on main.pdf (122 pages, 114707016 bytes).
 PDF statistics:
- 2168 PDF objects out of 2487 (max. 8388607)
- 1980 compressed objects within 20 object streams
- 466 named destinations out of 1000 (max. 500000)
- 586 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3075 PDF objects out of 3580 (max. 8388607)
+ 2849 compressed objects within 29 object streams
+ 733 named destinations out of 1000 (max. 500000)
+ 1554 words of extra memory for PDF output out of 10000 (max. 10000000)
 

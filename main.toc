@@ -98,21 +98,259 @@
 \contentsline {subsubsection}{Процес прийняття рішення про конверсію}{84}{subsubsection*.53}%
 \contentsline {subsubsection}{Технічні аспекти виконання конверсії}{84}{subsubsection*.54}%
 \contentsline {chapter}{\numberline {3}Техніка окремих видів лапароскопічних резекцій печінки}{87}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Енуклеорезекція печінки}{87}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Моносегментектомія антеролатеральних сегментів}{87}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Бісегментектомія антеролатеральних сегментів}{87}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Лівобічна латеральна секцієектомія}{87}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Лівобічна гемігепатектомія}{87}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Правобічна гемігепатектомія}{87}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Правобічна гемігепатектомія}{87}{section.3.7}%
-\contentsline {subsection}{\numberline {3.7.1}Визначення та загальна характеристика}{87}{subsection.3.7.1}%
-\contentsline {subsection}{\numberline {3.7.2}Покази та протипокази}{88}{subsection.3.7.2}%
-\contentsline {subsubsection}{Покази:}{88}{subsubsection*.55}%
-\contentsline {subsubsection}{Протипокази:}{88}{subsubsection*.56}%
-\contentsline {subsection}{\numberline {3.7.3}Передопераційна підготовка}{88}{subsection.3.7.3}%
+\contentsline {section}{\numberline {3.1}Субсегментарна енуклеорезекція печінки}{87}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Визначення та загальна характеристика}{87}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Покази та протипокази}{87}{subsection.3.1.2}%
+\contentsline {subsubsection}{Покази:}{87}{subsubsection*.55}%
+\contentsline {subsubsection}{Протипокази:}{87}{subsubsection*.56}%
+\contentsline {subsection}{\numberline {3.1.3}Передопераційна підготовка}{88}{subsection.3.1.3}%
 \contentsline {subsubsection}{Оцінка пацієнта:}{88}{subsubsection*.57}%
 \contentsline {subsubsection}{Планування втручання:}{88}{subsubsection*.58}%
-\contentsline {subsection}{\numberline {3.7.4}Технічне забезпечення операції}{89}{subsection.3.7.4}%
-\contentsline {section}{\numberline {3.8}Правобічна задня секцієектомія}{89}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Резекція }{89}{section.3.9}%
-\contentsline {section}{\numberline {3.10}Резекція 4 }{89}{section.3.10}%
+\contentsline {subsection}{\numberline {3.1.4}Технічне забезпечення операції}{88}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Оперативна техніка}{88}{subsection.3.1.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{88}{subsubsection*.59}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{88}{subsubsection*.60}%
+\contentsline {subsubsection}{Мобілізація печінки}{89}{subsubsection*.61}%
+\contentsline {subsubsection}{Видалення пухлини}{89}{subsubsection*.62}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{89}{subsubsection*.63}%
+\contentsline {subsection}{\numberline {3.1.6}Інтраопераційні ускладнення та їх корекція}{89}{subsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.1.7}Післяопераційне ведення пацієнта}{89}{subsection.3.1.7}%
+\contentsline {subsection}{\numberline {3.1.8}Клінічний випадок}{89}{subsection.3.1.8}%
+\contentsline {subsection}{\numberline {3.1.9}Висновки}{90}{subsection.3.1.9}%
+\contentsline {section}{\numberline {3.2}Анатомічна резекція Sg 2}{90}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Визначення та загальна характеристика}{90}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Покази та протипокази}{90}{subsection.3.2.2}%
+\contentsline {subsubsection}{Покази:}{90}{subsubsection*.64}%
+\contentsline {subsubsection}{Протипокази:}{90}{subsubsection*.65}%
+\contentsline {subsection}{\numberline {3.2.3}Передопераційна підготовка}{90}{subsection.3.2.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{90}{subsubsection*.66}%
+\contentsline {subsubsection}{Планування втручання:}{90}{subsubsection*.67}%
+\contentsline {subsection}{\numberline {3.2.4}Технічне забезпечення операції}{91}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Оперативна техніка}{91}{subsection.3.2.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{91}{subsubsection*.68}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{91}{subsubsection*.69}%
+\contentsline {subsubsection}{Мобілізація печінки}{91}{subsubsection*.70}%
+\contentsline {subsubsection}{Техніка резекції}{91}{subsubsection*.71}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{91}{subsubsection*.72}%
+\contentsline {subsection}{\numberline {3.2.6}Інтраопераційні ускладнення та їх корекція}{91}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.2.7}Післяопераційне ведення пацієнта}{91}{subsection.3.2.7}%
+\contentsline {subsection}{\numberline {3.2.8}Клінічний випадок}{91}{subsection.3.2.8}%
+\contentsline {subsection}{\numberline {3.2.9}Висновки}{92}{subsection.3.2.9}%
+\contentsline {section}{\numberline {3.3}Анатомічна резекція Sg 3}{92}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Визначення та загальна характеристика}{92}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Покази та протипокази}{92}{subsection.3.3.2}%
+\contentsline {subsubsection}{Покази:}{92}{subsubsection*.73}%
+\contentsline {subsubsection}{Протипокази:}{92}{subsubsection*.74}%
+\contentsline {subsection}{\numberline {3.3.3}Передопераційна підготовка}{92}{subsection.3.3.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{92}{subsubsection*.75}%
+\contentsline {subsubsection}{Планування втручання:}{92}{subsubsection*.76}%
+\contentsline {subsection}{\numberline {3.3.4}Технічне забезпечення операції}{92}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Оперативна техніка}{93}{subsection.3.3.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{93}{subsubsection*.77}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{93}{subsubsection*.78}%
+\contentsline {subsubsection}{Мобілізація печінки}{93}{subsubsection*.79}%
+\contentsline {subsubsection}{Техніка резекції}{93}{subsubsection*.80}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{93}{subsubsection*.81}%
+\contentsline {subsection}{\numberline {3.3.6}Інтраопераційні ускладнення та їх корекція}{93}{subsection.3.3.6}%
+\contentsline {subsection}{\numberline {3.3.7}Післяопераційне ведення пацієнта}{93}{subsection.3.3.7}%
+\contentsline {subsection}{\numberline {3.3.8}Клінічний випадок}{93}{subsection.3.3.8}%
+\contentsline {subsection}{\numberline {3.3.9}Висновки}{93}{subsection.3.3.9}%
+\contentsline {section}{\numberline {3.4}Лівобічна латеральна секцієектомія}{94}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Визначення та загальна характеристика}{94}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Покази та протипокази}{94}{subsection.3.4.2}%
+\contentsline {subsubsection}{Покази:}{94}{subsubsection*.82}%
+\contentsline {subsubsection}{Протипокази:}{94}{subsubsection*.83}%
+\contentsline {subsection}{\numberline {3.4.3}Передопераційна підготовка}{94}{subsection.3.4.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{94}{subsubsection*.84}%
+\contentsline {subsubsection}{Планування втручання:}{94}{subsubsection*.85}%
+\contentsline {subsection}{\numberline {3.4.4}Технічне забезпечення операції}{94}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}Оперативна техніка}{94}{subsection.3.4.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{94}{subsubsection*.86}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{95}{subsubsection*.87}%
+\contentsline {subsubsection}{Мобілізація печінки}{95}{subsubsection*.88}%
+\contentsline {subsubsection}{Техніка резекції}{95}{subsubsection*.89}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{95}{subsubsection*.90}%
+\contentsline {subsection}{\numberline {3.4.6}Інтраопераційні ускладнення та їх корекція}{95}{subsection.3.4.6}%
+\contentsline {subsection}{\numberline {3.4.7}Післяопераційне ведення пацієнта}{95}{subsection.3.4.7}%
+\contentsline {subsection}{\numberline {3.4.8}Клінічний випадок}{95}{subsection.3.4.8}%
+\contentsline {subsection}{\numberline {3.4.9}Висновки}{95}{subsection.3.4.9}%
+\contentsline {section}{\numberline {3.5}Анатомічна резекція Sg 4}{96}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Визначення та загальна характеристика}{96}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Покази та протипокази}{96}{subsection.3.5.2}%
+\contentsline {subsubsection}{Покази:}{96}{subsubsection*.91}%
+\contentsline {subsubsection}{Протипокази:}{96}{subsubsection*.92}%
+\contentsline {subsection}{\numberline {3.5.3}Передопераційна підготовка}{96}{subsection.3.5.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{96}{subsubsection*.93}%
+\contentsline {subsubsection}{Планування втручання:}{96}{subsubsection*.94}%
+\contentsline {subsection}{\numberline {3.5.4}Технічне забезпечення операції}{96}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Оперативна техніка}{96}{subsection.3.5.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{96}{subsubsection*.95}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{97}{subsubsection*.96}%
+\contentsline {subsubsection}{Мобілізація печінки}{97}{subsubsection*.97}%
+\contentsline {subsubsection}{Техніка резекції}{97}{subsubsection*.98}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{97}{subsubsection*.99}%
+\contentsline {subsection}{\numberline {3.5.6}Інтраопераційні ускладнення та їх корекція}{97}{subsection.3.5.6}%
+\contentsline {subsection}{\numberline {3.5.7}Післяопераційне ведення пацієнта}{97}{subsection.3.5.7}%
+\contentsline {subsection}{\numberline {3.5.8}Клінічний випадок}{97}{subsection.3.5.8}%
+\contentsline {subsection}{\numberline {3.5.9}Висновки}{97}{subsection.3.5.9}%
+\contentsline {section}{\numberline {3.6}Лівобічна гемігепатектомія}{98}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Визначення та загальна характеристика}{98}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Покази та протипокази}{98}{subsection.3.6.2}%
+\contentsline {subsubsection}{Покази:}{98}{subsubsection*.100}%
+\contentsline {subsubsection}{Протипокази:}{98}{subsubsection*.101}%
+\contentsline {subsection}{\numberline {3.6.3}Передопераційна підготовка}{98}{subsection.3.6.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{98}{subsubsection*.102}%
+\contentsline {subsubsection}{Планування втручання:}{98}{subsubsection*.103}%
+\contentsline {subsection}{\numberline {3.6.4}Технічне забезпечення операції}{98}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}Оперативна техніка}{98}{subsection.3.6.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{98}{subsubsection*.104}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{99}{subsubsection*.105}%
+\contentsline {subsubsection}{Мобілізація печінки}{99}{subsubsection*.106}%
+\contentsline {subsubsection}{Техніка резекції}{99}{subsubsection*.107}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{99}{subsubsection*.108}%
+\contentsline {subsection}{\numberline {3.6.6}Інтраопераційні ускладнення та їх корекція}{99}{subsection.3.6.6}%
+\contentsline {subsection}{\numberline {3.6.7}Післяопераційне ведення пацієнта}{99}{subsection.3.6.7}%
+\contentsline {subsection}{\numberline {3.6.8}Клінічний випадок}{99}{subsection.3.6.8}%
+\contentsline {subsection}{\numberline {3.6.9}Висновки}{99}{subsection.3.6.9}%
+\contentsline {section}{\numberline {3.7}Анатомічна резекція Sg 5}{100}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Визначення та загальна характеристика}{100}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Покази та протипокази}{100}{subsection.3.7.2}%
+\contentsline {subsubsection}{Покази:}{100}{subsubsection*.109}%
+\contentsline {subsubsection}{Протипокази:}{100}{subsubsection*.110}%
+\contentsline {subsection}{\numberline {3.7.3}Передопераційна підготовка}{100}{subsection.3.7.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{100}{subsubsection*.111}%
+\contentsline {subsubsection}{Планування втручання:}{100}{subsubsection*.112}%
+\contentsline {subsection}{\numberline {3.7.4}Технічне забезпечення операції}{100}{subsection.3.7.4}%
+\contentsline {subsection}{\numberline {3.7.5}Оперативна техніка}{100}{subsection.3.7.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{100}{subsubsection*.113}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{101}{subsubsection*.114}%
+\contentsline {subsubsection}{Мобілізація печінки}{101}{subsubsection*.115}%
+\contentsline {subsubsection}{Техніка резекції}{101}{subsubsection*.116}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{101}{subsubsection*.117}%
+\contentsline {subsection}{\numberline {3.7.6}Інтраопераційні ускладнення та їх корекція}{101}{subsection.3.7.6}%
+\contentsline {subsection}{\numberline {3.7.7}Післяопераційне ведення пацієнта}{101}{subsection.3.7.7}%
+\contentsline {subsection}{\numberline {3.7.8}Клінічний випадок}{101}{subsection.3.7.8}%
+\contentsline {subsection}{\numberline {3.7.9}Висновки}{101}{subsection.3.7.9}%
+\contentsline {section}{\numberline {3.8}Анатомічна резекція Sg 6}{102}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Визначення та загальна характеристика}{102}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Покази та протипокази}{102}{subsection.3.8.2}%
+\contentsline {subsubsection}{Покази:}{102}{subsubsection*.118}%
+\contentsline {subsubsection}{Протипокази:}{102}{subsubsection*.119}%
+\contentsline {subsection}{\numberline {3.8.3}Передопераційна підготовка}{102}{subsection.3.8.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{102}{subsubsection*.120}%
+\contentsline {subsubsection}{Планування втручання:}{102}{subsubsection*.121}%
+\contentsline {subsection}{\numberline {3.8.4}Технічне забезпечення операції}{102}{subsection.3.8.4}%
+\contentsline {subsection}{\numberline {3.8.5}Оперативна техніка}{102}{subsection.3.8.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{102}{subsubsection*.122}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{103}{subsubsection*.123}%
+\contentsline {subsubsection}{Мобілізація печінки}{103}{subsubsection*.124}%
+\contentsline {subsubsection}{Техніка резекції}{103}{subsubsection*.125}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{103}{subsubsection*.126}%
+\contentsline {subsection}{\numberline {3.8.6}Інтраопераційні ускладнення та їх корекція}{103}{subsection.3.8.6}%
+\contentsline {subsection}{\numberline {3.8.7}Післяопераційне ведення пацієнта}{103}{subsection.3.8.7}%
+\contentsline {subsection}{\numberline {3.8.8}Клінічний випадок}{103}{subsection.3.8.8}%
+\contentsline {subsection}{\numberline {3.8.9}Висновки}{103}{subsection.3.8.9}%
+\contentsline {section}{\numberline {3.9}Бісегментектомія 5-6}{103}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Визначення та загальна характеристика}{103}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Покази та протипокази}{104}{subsection.3.9.2}%
+\contentsline {subsubsection}{Покази:}{104}{subsubsection*.127}%
+\contentsline {subsubsection}{Протипокази:}{104}{subsubsection*.128}%
+\contentsline {subsection}{\numberline {3.9.3}Передопераційна підготовка}{104}{subsection.3.9.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{104}{subsubsection*.129}%
+\contentsline {subsubsection}{Планування втручання:}{104}{subsubsection*.130}%
+\contentsline {subsection}{\numberline {3.9.4}Технічне забезпечення операції}{104}{subsection.3.9.4}%
+\contentsline {subsection}{\numberline {3.9.5}Оперативна техніка}{104}{subsection.3.9.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{104}{subsubsection*.131}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{104}{subsubsection*.132}%
+\contentsline {subsubsection}{Мобілізація печінки}{105}{subsubsection*.133}%
+\contentsline {subsubsection}{Техніка резекції}{105}{subsubsection*.134}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{105}{subsubsection*.135}%
+\contentsline {subsection}{\numberline {3.9.6}Інтраопераційні ускладнення та їх корекція}{105}{subsection.3.9.6}%
+\contentsline {subsection}{\numberline {3.9.7}Післяопераційне ведення пацієнта}{105}{subsection.3.9.7}%
+\contentsline {subsection}{\numberline {3.9.8}Клінічний випадок}{105}{subsection.3.9.8}%
+\contentsline {subsection}{\numberline {3.9.9}Висновки}{105}{subsection.3.9.9}%
+\contentsline {section}{\numberline {3.10}Правобічна гемігепатектомія}{105}{section.3.10}%
+\contentsline {subsection}{\numberline {3.10.1}Визначення та загальна характеристика}{105}{subsection.3.10.1}%
+\contentsline {subsection}{\numberline {3.10.2}Покази та протипокази}{106}{subsection.3.10.2}%
+\contentsline {subsubsection}{Покази:}{106}{subsubsection*.136}%
+\contentsline {subsubsection}{Протипокази:}{106}{subsubsection*.137}%
+\contentsline {subsection}{\numberline {3.10.3}Передопераційна підготовка}{106}{subsection.3.10.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{106}{subsubsection*.138}%
+\contentsline {subsubsection}{Планування втручання:}{106}{subsubsection*.139}%
+\contentsline {subsection}{\numberline {3.10.4}Технічне забезпечення операції}{107}{subsection.3.10.4}%
+\contentsline {section}{\numberline {3.11}Правобічна задня секцієектомія}{107}{section.3.11}%
+\contentsline {subsection}{\numberline {3.11.1}Визначення та загальна характеристика}{107}{subsection.3.11.1}%
+\contentsline {subsection}{\numberline {3.11.2}Покази та протипокази}{107}{subsection.3.11.2}%
+\contentsline {subsubsection}{Покази:}{107}{subsubsection*.140}%
+\contentsline {subsubsection}{Протипокази:}{107}{subsubsection*.141}%
+\contentsline {subsection}{\numberline {3.11.3}Передопераційна підготовка}{107}{subsection.3.11.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{107}{subsubsection*.142}%
+\contentsline {subsubsection}{Планування втручання:}{107}{subsubsection*.143}%
+\contentsline {subsection}{\numberline {3.11.4}Технічне забезпечення операції}{108}{subsection.3.11.4}%
+\contentsline {subsection}{\numberline {3.11.5}Оперативна техніка}{108}{subsection.3.11.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{108}{subsubsection*.144}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{108}{subsubsection*.145}%
+\contentsline {subsubsection}{Мобілізація печінки}{108}{subsubsection*.146}%
+\contentsline {subsubsection}{Техніка резекції}{108}{subsubsection*.147}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{108}{subsubsection*.148}%
+\contentsline {subsection}{\numberline {3.11.6}Інтраопераційні ускладнення та їх корекція}{108}{subsection.3.11.6}%
+\contentsline {subsection}{\numberline {3.11.7}Післяопераційне ведення пацієнта}{108}{subsection.3.11.7}%
+\contentsline {subsection}{\numberline {3.11.8}Клінічний випадок}{108}{subsection.3.11.8}%
+\contentsline {subsection}{\numberline {3.11.9}Висновки}{109}{subsection.3.11.9}%
+\contentsline {section}{\numberline {3.12}Анатомічна резекція Sg 7}{109}{section.3.12}%
+\contentsline {subsection}{\numberline {3.12.1}Визначення та загальна характеристика}{109}{subsection.3.12.1}%
+\contentsline {subsection}{\numberline {3.12.2}Покази та протипокази}{109}{subsection.3.12.2}%
+\contentsline {subsubsection}{Покази:}{109}{subsubsection*.149}%
+\contentsline {subsubsection}{Протипокази:}{109}{subsubsection*.150}%
+\contentsline {subsection}{\numberline {3.12.3}Передопераційна підготовка}{109}{subsection.3.12.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{109}{subsubsection*.151}%
+\contentsline {subsubsection}{Планування втручання:}{109}{subsubsection*.152}%
+\contentsline {subsection}{\numberline {3.12.4}Технічне забезпечення операції}{109}{subsection.3.12.4}%
+\contentsline {subsection}{\numberline {3.12.5}Оперативна техніка}{110}{subsection.3.12.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{110}{subsubsection*.153}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{110}{subsubsection*.154}%
+\contentsline {subsubsection}{Мобілізація печінки}{110}{subsubsection*.155}%
+\contentsline {subsubsection}{Техніка резекції}{110}{subsubsection*.156}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{110}{subsubsection*.157}%
+\contentsline {subsection}{\numberline {3.12.6}Інтраопераційні ускладнення та їх корекція}{110}{subsection.3.12.6}%
+\contentsline {subsection}{\numberline {3.12.7}Післяопераційне ведення пацієнта}{110}{subsection.3.12.7}%
+\contentsline {subsection}{\numberline {3.12.8}Клінічний випадок}{110}{subsection.3.12.8}%
+\contentsline {subsection}{\numberline {3.12.9}Висновки}{110}{subsection.3.12.9}%
+\contentsline {section}{\numberline {3.13}Анатомічна резекція Sg 8}{111}{section.3.13}%
+\contentsline {subsection}{\numberline {3.13.1}Визначення та загальна характеристика}{111}{subsection.3.13.1}%
+\contentsline {subsection}{\numberline {3.13.2}Покази та протипокази}{111}{subsection.3.13.2}%
+\contentsline {subsubsection}{Покази:}{111}{subsubsection*.158}%
+\contentsline {subsubsection}{Протипокази:}{111}{subsubsection*.159}%
+\contentsline {subsection}{\numberline {3.13.3}Передопераційна підготовка}{111}{subsection.3.13.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{111}{subsubsection*.160}%
+\contentsline {subsubsection}{Планування втручання:}{111}{subsubsection*.161}%
+\contentsline {subsection}{\numberline {3.13.4}Технічне забезпечення операції}{111}{subsection.3.13.4}%
+\contentsline {subsection}{\numberline {3.13.5}Оперативна техніка}{111}{subsection.3.13.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{111}{subsubsection*.162}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{112}{subsubsection*.163}%
+\contentsline {subsubsection}{Мобілізація печінки}{112}{subsubsection*.164}%
+\contentsline {subsubsection}{Техніка резекції}{112}{subsubsection*.165}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{112}{subsubsection*.166}%
+\contentsline {subsection}{\numberline {3.13.6}Інтраопераційні ускладнення та їх корекція}{112}{subsection.3.13.6}%
+\contentsline {subsection}{\numberline {3.13.7}Післяопераційне ведення пацієнта}{112}{subsection.3.13.7}%
+\contentsline {subsection}{\numberline {3.13.8}Клінічний випадок}{112}{subsection.3.13.8}%
+\contentsline {subsection}{\numberline {3.13.9}Висновки}{112}{subsection.3.13.9}%
+\contentsline {section}{\numberline {3.14}Мезогепатектомія}{113}{section.3.14}%
+\contentsline {subsection}{\numberline {3.14.1}Визначення та загальна характеристика}{113}{subsection.3.14.1}%
+\contentsline {subsection}{\numberline {3.14.2}Покази та протипокази}{113}{subsection.3.14.2}%
+\contentsline {subsubsection}{Покази:}{113}{subsubsection*.167}%
+\contentsline {subsubsection}{Протипокази:}{113}{subsubsection*.168}%
+\contentsline {subsection}{\numberline {3.14.3}Передопераційна підготовка}{113}{subsection.3.14.3}%
+\contentsline {subsubsection}{Оцінка пацієнта:}{113}{subsubsection*.169}%
+\contentsline {subsubsection}{Планування втручання:}{113}{subsubsection*.170}%
+\contentsline {subsection}{\numberline {3.14.4}Технічне забезпечення операції}{113}{subsection.3.14.4}%
+\contentsline {subsection}{\numberline {3.14.5}Оперативна техніка}{113}{subsection.3.14.5}%
+\contentsline {subsubsection}{Укладка пацієнта}{113}{subsubsection*.171}%
+\contentsline {subsubsection}{Доступ та розташування троакарів}{114}{subsubsection*.172}%
+\contentsline {subsubsection}{Мобілізація печінки}{114}{subsubsection*.173}%
+\contentsline {subsubsection}{Техніка резекції}{114}{subsubsection*.174}%
+\contentsline {subsubsection}{Контроль гемостазу та жовчотоку}{114}{subsubsection*.175}%
+\contentsline {subsection}{\numberline {3.14.6}Інтраопераційні ускладнення та їх корекція}{114}{subsection.3.14.6}%
+\contentsline {subsection}{\numberline {3.14.7}Післяопераційне ведення пацієнта}{114}{subsection.3.14.7}%
+\contentsline {subsection}{\numberline {3.14.8}Клінічний випадок}{114}{subsection.3.14.8}%
+\contentsline {subsection}{\numberline {3.14.9}Висновки}{114}{subsection.3.14.9}%
