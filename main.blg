@@ -1,81 +1,81 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[36] biber-darwin:340> INFO - === Sun Mar 23, 2025, 10:09:13
-[45] Biber.pm:420> INFO - Reading 'main.bcf'
-[92] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[98] Biber.pm:994> INFO - Found 149 citekeys in bib section 1
-[98] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[99] Biber.pm:994> INFO - Found 10 citekeys in bib section 2
-[99] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[99] Biber.pm:994> INFO - Found 0 citekeys in bib section 3
-[99] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[113] Biber.pm:4463> INFO - Processing section 1
-[119] Biber.pm:4654> INFO - Looking for bibtex file 'Bibliographies/bib_01.bib' for section 1
-[138] bibtex.pm:1713> INFO - LaTeX decoding ...
+[37] biber-darwin:340> INFO - === Sun Mar 23, 2025, 21:48:19
+[47] Biber.pm:420> INFO - Reading 'main.bcf'
+[94] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[99] Biber.pm:994> INFO - Found 149 citekeys in bib section 1
+[100] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[100] Biber.pm:994> INFO - Found 10 citekeys in bib section 2
+[100] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[100] Biber.pm:994> INFO - Found 0 citekeys in bib section 3
+[100] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[116] Biber.pm:4463> INFO - Processing section 1
+[121] Biber.pm:4654> INFO - Looking for bibtex file 'Bibliographies/bib_01.bib' for section 1
+[140] bibtex.pm:1713> INFO - LaTeX decoding ...
 [377] bibtex.pm:1519> INFO - Found BibTeX data source 'Bibliographies/bib_01.bib'
-[1268] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1268] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1268] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'uk-UA'
-[1364] Biber.pm:4463> INFO - Processing section 2
-[1364] Biber.pm:4654> INFO - Looking for bibtex file 'Bibliographies/bib_01.bib' for section 2
-[1438] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1438] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1438] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'uk-UA'
-[1444] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1521] bbl.pm:779> INFO - Output to main.bbl
-[1521] Biber.pm:131> WARN - Duplicate entry key: 'Ratti2020' in file 'Bibliographies/bib_01.bib', skipping ...
-[1521] Biber.pm:131> WARN - Duplicate entry key: 'Zimmermann2017' in file 'Bibliographies/bib_01.bib', skipping ...
-[1521] Biber.pm:131> WARN - Duplicate entry key: 'Mizuno2019' in file 'Bibliographies/bib_01.bib', skipping ...
-[1521] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Reich1991a' is not an integer - this will probably not sort properly.
-[1521] Biber.pm:131> WARN - legacy month field 'aug' in entry 'Klotz1993' is not an integer - this will probably not sort properly.
-[1521] Biber.pm:131> WARN - legacy month field 'aug' in entry 'Cunningham1995' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'jul' in entry 'Azagra1996' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'dec' in entry 'Hashizume1995' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Dagher2009' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'feb' in entry 'Cherqui2002' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - ISBN '1528-1140; 0003-4932' in entry 'Buell2009' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - legacy month field 'apr' in entry 'Guyatt2008' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'sep' in entry 'McCulloch2009' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Takahara2016' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Berardi2017' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - Range field 'pages' in entry 'Robles-Campos2019' is malformed, falling back to literal
-[1522] Biber.pm:131> WARN - legacy month field 'oct' in entry 'Garbarino2019' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - ISBN '1365-182X' in entry 'Belli2013a' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - legacy month field 'aug' in entry 'Huscher1997' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - ISBN '1879-1883 (Electronic)$\backslash$n0002-9610 (Linking)' in entry 'Gayet2007' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - ISBN '1879-1190 (Electronic)$\backslash$n1072-7515 (Linking)' in entry 'Dagher2008' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - ISBN '0003-4932 1528-1140' in entry 'Yoon2017b' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - ISBN '1092-6429' in entry 'Cheng2015' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - ISBN '0930-2794' in entry 'Ikeda2014' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - ISBN '0000000234320' in entry 'Wei2019' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - ISBN '1043401435179' in entry 'Machado2014' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - legacy month field 'jun' in entry 'Eshuis2018' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'sep' in entry 'Colasanti2017' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - ISBN '0140-6736 (Print)$\backslash$r0140-6736 (Linking)' in entry 'Cherqui2002a' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - ISBN '1528-1140 (Electronic)$\backslash$r0003-4932 (Linking)' in entry 'Lin2013' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - legacy month field 'dec' in entry 'Llovet2003' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'aug' in entry 'Cucchetti2013' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - ISBN '1600-0641 (Electronic) 0168-8278 (Linking)' in entry 'Colombo2016' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - ISBN '0270-9139' in entry 'Heimbach2018' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - legacy month field 'jul' in entry 'Moris2018' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - ISBN '0168-8278' in entry 'Galle2018a' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Romano2012' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'oct' in entry 'Ishii2014' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'jul' in entry 'Kanazawa2013' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Truant2011' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'apr' in entry 'Ruzzenente2020' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'may' in entry 'Juntermanns2019' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'mar' in entry 'Sakamoto1998' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'oct' in entry 'Shimada2003' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'jul' in entry 'Mizuno2019' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Lindner2018' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'apr' in entry 'Miyazaki2015' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - ISBN '1537-453X (Electronic)' in entry 'Liu2009' is invalid - run biber with '--validate_datamodel' for details.
-[1522] Biber.pm:131> WARN - legacy month field 'oct' in entry 'Koffron2004' is not an integer - this will probably not sort properly.
-[1522] Biber.pm:131> WARN - legacy month field 'jun' in entry 'Salm2019' is not an integer - this will probably not sort properly.
-[1523] Biber.pm:131> WARN - legacy month field 'may' in entry 'COUINAUD1954' is not an integer - this will probably not sort properly.
-[1523] Biber.pm:131> WARN - legacy month field 'may' in entry 'HEALEY1953' is not an integer - this will probably not sort properly.
-[1523] Biber.pm:131> WARN - ISBN '1365-182X (Print)$\backslash$n1365-182X (Linking)' in entry 'Pang2000' is invalid - run biber with '--validate_datamodel' for details.
-[1523] Biber.pm:131> WARN - legacy month field 'feb' in entry 'Kumon2017' is not an integer - this will probably not sort properly.
-[1523] Biber.pm:131> WARN - ISBN '1868-6974' in entry 'Ban2014' is invalid - run biber with '--validate_datamodel' for details.
-[1523] Biber.pm:133> INFO - WARNINGS: 55
+[1285] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1285] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1285] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'uk-UA'
+[1381] Biber.pm:4463> INFO - Processing section 2
+[1382] Biber.pm:4654> INFO - Looking for bibtex file 'Bibliographies/bib_01.bib' for section 2
+[1460] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1460] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1461] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'uk-UA'
+[1467] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1547] bbl.pm:779> INFO - Output to main.bbl
+[1547] Biber.pm:131> WARN - Duplicate entry key: 'Ratti2020' in file 'Bibliographies/bib_01.bib', skipping ...
+[1547] Biber.pm:131> WARN - Duplicate entry key: 'Zimmermann2017' in file 'Bibliographies/bib_01.bib', skipping ...
+[1547] Biber.pm:131> WARN - Duplicate entry key: 'Mizuno2019' in file 'Bibliographies/bib_01.bib', skipping ...
+[1547] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Reich1991a' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'aug' in entry 'Klotz1993' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'aug' in entry 'Cunningham1995' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'jul' in entry 'Azagra1996' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'dec' in entry 'Hashizume1995' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Dagher2009' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'feb' in entry 'Cherqui2002' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - ISBN '1528-1140; 0003-4932' in entry 'Buell2009' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - legacy month field 'apr' in entry 'Guyatt2008' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'sep' in entry 'McCulloch2009' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Takahara2016' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Berardi2017' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - Range field 'pages' in entry 'Robles-Campos2019' is malformed, falling back to literal
+[1548] Biber.pm:131> WARN - legacy month field 'oct' in entry 'Garbarino2019' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - ISBN '1365-182X' in entry 'Belli2013a' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - legacy month field 'aug' in entry 'Huscher1997' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - ISBN '1879-1883 (Electronic)$\backslash$n0002-9610 (Linking)' in entry 'Gayet2007' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - ISBN '1879-1190 (Electronic)$\backslash$n1072-7515 (Linking)' in entry 'Dagher2008' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - ISBN '0003-4932 1528-1140' in entry 'Yoon2017b' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - ISBN '1092-6429' in entry 'Cheng2015' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - ISBN '0930-2794' in entry 'Ikeda2014' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - ISBN '0000000234320' in entry 'Wei2019' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - ISBN '1043401435179' in entry 'Machado2014' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - legacy month field 'jun' in entry 'Eshuis2018' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'sep' in entry 'Colasanti2017' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - ISBN '0140-6736 (Print)$\backslash$r0140-6736 (Linking)' in entry 'Cherqui2002a' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - ISBN '1528-1140 (Electronic)$\backslash$r0003-4932 (Linking)' in entry 'Lin2013' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - legacy month field 'dec' in entry 'Llovet2003' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'aug' in entry 'Cucchetti2013' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - ISBN '1600-0641 (Electronic) 0168-8278 (Linking)' in entry 'Colombo2016' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - ISBN '0270-9139' in entry 'Heimbach2018' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - legacy month field 'jul' in entry 'Moris2018' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - ISBN '0168-8278' in entry 'Galle2018a' is invalid - run biber with '--validate_datamodel' for details.
+[1548] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Romano2012' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'oct' in entry 'Ishii2014' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'jul' in entry 'Kanazawa2013' is not an integer - this will probably not sort properly.
+[1548] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Truant2011' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - legacy month field 'apr' in entry 'Ruzzenente2020' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - legacy month field 'may' in entry 'Juntermanns2019' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - legacy month field 'mar' in entry 'Sakamoto1998' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - legacy month field 'oct' in entry 'Shimada2003' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - legacy month field 'jul' in entry 'Mizuno2019' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - legacy month field 'nov' in entry 'Lindner2018' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - legacy month field 'apr' in entry 'Miyazaki2015' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - ISBN '1537-453X (Electronic)' in entry 'Liu2009' is invalid - run biber with '--validate_datamodel' for details.
+[1549] Biber.pm:131> WARN - legacy month field 'oct' in entry 'Koffron2004' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - legacy month field 'jun' in entry 'Salm2019' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - legacy month field 'may' in entry 'COUINAUD1954' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - legacy month field 'may' in entry 'HEALEY1953' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - ISBN '1365-182X (Print)$\backslash$n1365-182X (Linking)' in entry 'Pang2000' is invalid - run biber with '--validate_datamodel' for details.
+[1549] Biber.pm:131> WARN - legacy month field 'feb' in entry 'Kumon2017' is not an integer - this will probably not sort properly.
+[1549] Biber.pm:131> WARN - ISBN '1868-6974' in entry 'Ban2014' is invalid - run biber with '--validate_datamodel' for details.
+[1549] Biber.pm:133> INFO - WARNINGS: 55

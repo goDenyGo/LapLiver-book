@@ -20,14 +20,23 @@
 %\titlespacing\subsubsection{4pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
 
 %\titleformat{\subsubsection}[runin]{\bfseries\Large}{}{}{}[]
+ 
+% Оновлюємо формат заголовка розділу
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries} % Стиль заголовка
+  {Розділ~\thechapter}        % Формат нумерації
+  {20pt}                      % Відступ
+  {}
 
+% Оновлюємо формат у змісті
+%\renewcommand{\numberline}[1]{Розділ~#1\quad}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Source: http://en.wikibooks.org/wiki/LaTeX/Hyperlinks %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[hidelinks]{hyperref}
 \hypersetup{unicode=true} % Прибирає hyperref Warning 
 
-\usepackage[ukrainian]{babel}
+\usepackage[ukrainian]{babel} 
 
 \usepackage[acronym, toc]{glossaries}
 
@@ -136,8 +145,6 @@
 \clearpage
 \printglossary[type=\acronymtype,
                title=Перелік умовних позначеннь]
-
-
 
 
 \include{Chapters/chapter_01_theory}  
