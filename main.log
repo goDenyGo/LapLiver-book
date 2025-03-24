@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.23)  24 MAR 2025 07:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.23)  24 MAR 2025 09:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1080,20 +1080,54 @@ File: t1fcm.fd 2005/05/07 Fontinst v1.928 font definitions for T1/fcm.
 
 [10
 
-] (./main.acr
+] (./main.lof
+\blx@sectionciteorder@1=\count468
 
-[1
+Overfull \hbox (22.07773pt too wide) in paragraph at lines 3--3
+ [][] [][]\T2A/fcm/m/n/10.95 дХМЮЛiЙЮ ЙiКЭ-ЙН-ЯРi ОС-АКi-ЙЮ-ЖiИ Б PubMed ОН ГЮ-ОХ-РС "laparosopic 
+ []
 
 
+Overfull \hbox (1.26187pt too wide) in paragraph at lines 4--4
+ [][] [][]\T2A/fcm/m/n/10.95 кЮОЮПНЯЙНОiВМЮ Кi-БН-Аi-ВМЮ ЦЕ-ОЛi-ЦЕ-ОЮ-РЕ-ЙРН-ЛiЪ Г ОПХ-БН-ДС ЕУi- 
+ []
+
+
+Overfull \hbox (0.12306pt too wide) in paragraph at lines 12--12
+ [][] [][]\T2A/fcm/m/n/10.95 пЕГЕЙЖiЪ Sg 4a,5 Г ОПХ-БН-ДС ЛЮ-Кi-ЦМi-ГН-БЮ-МН-ЦН ОН-Кi-ОС ДМЮ ФНБ- 
+ []
+
+
+
+[11])
+\tf@lof=\write9
+\openout9 = `main.lof'.
+
+
+
+[12] (./main.lot)
+\tf@lot=\write10
+\openout10 = `main.lot'.
+
+ (./main.acr
+
+[13
+
+]
+
+[14
+
+]
+
+[15
 
 ])
 
-[2]
+[16]
 \openout2 = `Chapters/chapter_01_theory.aux'.
 
  (./Chapters/chapter_01_theory.tex
-\blx@maxsegment@1=\count468
-\blx@sectionciteorder@1=\count469
+\blx@maxsegment@1=\count469
 Package biblatex Info: Reference section=1 on input line 1.
 Package biblatex Info: Setting label 'refsection:1' on input line 1.
 
@@ -1110,11 +1144,13 @@ Overfull \hbox (13.23079pt too wide) in paragraph at lines 8--9
 
 
 
-[3
+[1
+
+
 
 
 ]
-<Illustrations/Chapter_01/PubMed_publications.jpg, id=1243, 1027.84pt x 578.16pt>
+<Illustrations/Chapter_01/PubMed_publications.jpg, id=1339, 1027.84pt x 578.16pt>
 File: Illustrations/Chapter_01/PubMed_publications.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/PubMed_publications.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/PubMed_publications.jpg  used on input line 23.
@@ -1123,30 +1159,30 @@ Package pdftex.def Info: Illustrations/Chapter_01/PubMed_publications.jpg  used 
 
 
 Overfull \hbox (14.7351pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 4  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 2  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[4 <./Illustrations/Chapter_01/PubMed_publications.jpg>]
+[2 <./Illustrations/Chapter_01/PubMed_publications.jpg>]
 Overfull \hbox (1.10243pt too wide) in paragraph at lines 31--32
 []\T2A/fcm/m/n/10.95 оПХИМЪРМХЛХ ДКЪ БХ-ДЮ-КЕ-М-МЪ ГЮ ДН-ОН-ЛН-ЦНЧ [][]кпо[] АС-КХ БХ-ГМЮ-ВЕ-Мi СРБН-
  []
 
 
 
-[5]
+[3]
 
 
 Overfull \hbox (14.7351pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 6  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 4  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[6]
+[4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[7]
-<Illustrations/Chapter_01/LeftLobe_Horizontal.jpg, id=1341, 3320.405pt x 1211.52625pt>
+[5]
+<Illustrations/Chapter_01/LeftLobe_Horizontal.jpg, id=1436, 3320.405pt x 1211.52625pt>
 File: Illustrations/Chapter_01/LeftLobe_Horizontal.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/LeftLobe_Horizontal.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/LeftLobe_Horizontal.jpg  used on input line 85.
@@ -1162,11 +1198,11 @@ Underfull \vbox (badness 3989) has occurred while \output is active []
 
 
 Overfull \hbox (14.7351pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 8  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 6  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[8]
-<Illustrations/Chapter_01/RightLobe_Horizontal.png, id=1360, 597.6729pt x 240.1773pt>
+[6]
+<Illustrations/Chapter_01/RightLobe_Horizontal.png, id=1454, 597.6729pt x 240.1773pt>
 File: Illustrations/Chapter_01/RightLobe_Horizontal.png Graphic file (type png)
 <use Illustrations/Chapter_01/RightLobe_Horizontal.png>
 Package pdftex.def Info: Illustrations/Chapter_01/RightLobe_Horizontal.png  used on input line 101.
@@ -1180,8 +1216,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[9{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-lgc/8r-mod.enc} <./Illustrations/Chapter_01/LeftLobe_Horizontal.jpg>]
-<Illustrations/Chapter_01/Complex_localisation_Sg7.png, id=1397, 415.7934pt x 345.6915pt>
+[7{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-lgc/8r-mod.enc} <./Illustrations/Chapter_01/LeftLobe_Horizontal.jpg>]
+<Illustrations/Chapter_01/Complex_localisation_Sg7.png, id=1488, 415.7934pt x 345.6915pt>
 File: Illustrations/Chapter_01/Complex_localisation_Sg7.png Graphic file (type png)
 <use Illustrations/Chapter_01/Complex_localisation_Sg7.png>
 Package pdftex.def Info: Illustrations/Chapter_01/Complex_localisation_Sg7.png  used on input line 127.
@@ -1190,7 +1226,7 @@ Package pdftex.def Info: Illustrations/Chapter_01/Complex_localisation_Sg7.png  
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Illustrations/Chapter_01/Complex_localisation_Sg8.png, id=1401, 535.0389pt x 345.6915pt>
+<Illustrations/Chapter_01/Complex_localisation_Sg8.png, id=1492, 535.0389pt x 345.6915pt>
 File: Illustrations/Chapter_01/Complex_localisation_Sg8.png Graphic file (type png)
 <use Illustrations/Chapter_01/Complex_localisation_Sg8.png>
 Package pdftex.def Info: Illustrations/Chapter_01/Complex_localisation_Sg8.png  used on input line 140.
@@ -1201,30 +1237,30 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
+Overfull \hbox (14.7351pt too wide) has occurred while \output is active
+\T2A/lmr/bx/n/10.95 8  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+ []
+
+[8 <./Illustrations/Chapter_01/RightLobe_Horizontal.png>]
+
+[9 <./Illustrations/Chapter_01/Complex_localisation_Sg7.png>]
+
+
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
 \T2A/lmr/bx/n/10.95 10  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[10 <./Illustrations/Chapter_01/RightLobe_Horizontal.png>]
-
-[11 <./Illustrations/Chapter_01/Complex_localisation_Sg7.png>]
-
-
-Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 12  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
- []
-
-[12 <./Illustrations/Chapter_01/Complex_localisation_Sg8.png>]
-<Illustrations/Chapter_01/Vascular_resection.png, id=1474, 542.5068pt x 701.7417pt>
+[10 <./Illustrations/Chapter_01/Complex_localisation_Sg8.png>]
+<Illustrations/Chapter_01/Vascular_resection.png, id=1564, 542.5068pt x 701.7417pt>
 File: Illustrations/Chapter_01/Vascular_resection.png Graphic file (type png)
 <use Illustrations/Chapter_01/Vascular_resection.png>
 Package pdftex.def Info: Illustrations/Chapter_01/Vascular_resection.png  used on input line 172.
 (pdftex.def)             Requested size: 341.9989pt x 442.378pt.
 
 
-[13]
+[11]
 
-LaTeX Warning: Text page 14 contains only floats.
+LaTeX Warning: Text page 12 contains only floats.
 
 
 Underfull \vbox (badness 4366) has occurred while \output is active []
@@ -1233,17 +1269,17 @@ Underfull \vbox (badness 4366) has occurred while \output is active []
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 14  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 12  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[14 <./Illustrations/Chapter_01/Vascular_resection.png>]
+[12 <./Illustrations/Chapter_01/Vascular_resection.png>]
 Overfull \hbox (4.43195pt too wide) in paragraph at lines 195--196
 []\T2A/fcm/m/n/10.95 рЮЙНФ ╧ ПЕ-ГСКЭ-РЮ-РХ ЛН-МН-ЖЕМ-РПН-БН-ЦН ОЯЕБ-ДН-ПЮМ-ДН-Лi-ГН-БЮ-МН-ЦН ДН-ЯКi-ДФЕ-
  []
 
 
 
-[15]
+[13]
 Overfull \hbox (7.87024pt too wide) in paragraph at lines 215--216
 []\T2A/fcm/m/n/10.95 мЮ РЕ-ОЕ-Пi-ЬМiИ ЛН-ЛЕМР КЮ-ОЮ-ПН-ЯЙН-Оi-ВМХИ ДН-МНП-ЯЭЙЮ ЦЕ-ОЮ-РЕ-ЙРН-ЛiЪ ЮЙРХБ-
  []
@@ -1252,18 +1288,18 @@ Overfull \hbox (7.87024pt too wide) in paragraph at lines 215--216
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 16  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 14  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[16]
+[14]
 
 
 Overfull \hbox (56.59456pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 17
+\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 15
  []
 
-[17]
-<Illustrations/Chapter_01/HCC_vascular_invasion.png, id=1620, 578.8827pt x 522.5121pt>
+[15]
+<Illustrations/Chapter_01/HCC_vascular_invasion.png, id=1709, 578.8827pt x 522.5121pt>
 File: Illustrations/Chapter_01/HCC_vascular_invasion.png Graphic file (type png)
 <use Illustrations/Chapter_01/HCC_vascular_invasion.png>
 Package pdftex.def Info: Illustrations/Chapter_01/HCC_vascular_invasion.png  used on input line 241.
@@ -1272,11 +1308,11 @@ Package pdftex.def Info: Illustrations/Chapter_01/HCC_vascular_invasion.png  use
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 18  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 16  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[18 <./Illustrations/Chapter_01/HCC_vascular_invasion.png>]
-<Illustrations/Chapter_01/HCC-Sg5.png, id=1650, 611.4042pt x 564.9105pt>
+[16 <./Illustrations/Chapter_01/HCC_vascular_invasion.png>]
+<Illustrations/Chapter_01/HCC-Sg5.png, id=1738, 611.4042pt x 564.9105pt>
 File: Illustrations/Chapter_01/HCC-Sg5.png Graphic file (type png)
 <use Illustrations/Chapter_01/HCC-Sg5.png>
 Package pdftex.def Info: Illustrations/Chapter_01/HCC-Sg5.png  used on input line 261.
@@ -1289,21 +1325,21 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Overfull \hbox (56.59456pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 19
+\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 17
  []
 
-[19{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+[17{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
 Underfull \vbox (badness 5563) has occurred while \output is active []
 
 
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 20  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 18  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[20 <./Illustrations/Chapter_01/HCC-Sg5.png>]
-<Illustrations/Chapter_01/IHCC.png, id=1699, 577.6782pt x 487.3407pt>
+[18 <./Illustrations/Chapter_01/HCC-Sg5.png>]
+<Illustrations/Chapter_01/IHCC.png, id=1785, 577.6782pt x 487.3407pt>
 File: Illustrations/Chapter_01/IHCC.png Graphic file (type png)
 <use Illustrations/Chapter_01/IHCC.png>
 Package pdftex.def Info: Illustrations/Chapter_01/IHCC.png  used on input line 292.
@@ -1321,17 +1357,17 @@ Overfull \hbox (6.80312pt too wide) in paragraph at lines 301--302
 
 
 Overfull \hbox (56.59456pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 21
+\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 19
  []
 
-[21]
+[19]
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 22  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 20  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[22 <./Illustrations/Chapter_01/IHCC.png>]
+[20 <./Illustrations/Chapter_01/IHCC.png>]
 Overfull \hbox (4.60713pt too wide) in paragraph at lines 308--309
 []\T2A/fcm/m/n/10.95 вЕПЕГ НА-ЬХП-МiЯРЭ РЮ ЯЙКЮ-ДМiЯРЭ БРПС-ВЮ-М-МЪ Б Кi-РЕ-ПЮ-РС-Пi ДН-ЯРС-ОМi НАЛЕ-
  []
@@ -1340,11 +1376,11 @@ Overfull \hbox (4.60713pt too wide) in paragraph at lines 308--309
 
 
 Overfull \hbox (56.59456pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 23
+\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 21
  []
 
-[23]
-<Illustrations/Chapter_01/GBC.png, id=1765, 586.1097pt x 397.485pt>
+[21]
+<Illustrations/Chapter_01/GBC.png, id=1850, 586.1097pt x 397.485pt>
 File: Illustrations/Chapter_01/GBC.png Graphic file (type png)
 <use Illustrations/Chapter_01/GBC.png>
 Package pdftex.def Info: Illustrations/Chapter_01/GBC.png  used on input line 320.
@@ -1353,11 +1389,11 @@ Package pdftex.def Info: Illustrations/Chapter_01/GBC.png  used on input line 32
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 24  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 22  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[24 <./Illustrations/Chapter_01/GBC.png>]
-<Illustrations/Chapter_01/CRLM1.png, id=1786, 552.6246pt x 614.5359pt>
+[22 <./Illustrations/Chapter_01/GBC.png>]
+<Illustrations/Chapter_01/CRLM1.png, id=1870, 552.6246pt x 614.5359pt>
 File: Illustrations/Chapter_01/CRLM1.png Graphic file (type png)
 <use Illustrations/Chapter_01/CRLM1.png>
 Package pdftex.def Info: Illustrations/Chapter_01/CRLM1.png  used on input line 347.
@@ -1371,21 +1407,21 @@ Overfull \hbox (3.96716pt too wide) in paragraph at lines 357--358
 
 
 Overfull \hbox (56.59456pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 25
+\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 23
  []
 
-[25]
+[23]
 Underfull \vbox (badness 6675) has occurred while \output is active []
 
 
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 26  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 24  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[26 <./Illustrations/Chapter_01/CRLM1.png>]
-<Illustrations/Chapter_01/CRLM2.png, id=1841, 498.1812pt x 461.5644pt>
+[24 <./Illustrations/Chapter_01/CRLM1.png>]
+<Illustrations/Chapter_01/CRLM2.png, id=1925, 498.1812pt x 461.5644pt>
 File: Illustrations/Chapter_01/CRLM2.png Graphic file (type png)
 <use Illustrations/Chapter_01/CRLM2.png>
 Package pdftex.def Info: Illustrations/Chapter_01/CRLM2.png  used on input line 366.
@@ -1394,25 +1430,25 @@ Package pdftex.def Info: Illustrations/Chapter_01/CRLM2.png  used on input line 
 
 
 Overfull \hbox (56.59456pt too wide) has occurred while \output is active
+\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 25
+ []
+
+[25]
+
+
+Overfull \hbox (20.17905pt too wide) has occurred while \output is active
+\T2A/lmr/bx/n/10.95 26  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+ []
+
+[26 <./Illustrations/Chapter_01/CRLM2.png>]
+
+
+Overfull \hbox (56.59456pt too wide) has occurred while \output is active
 \T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 27
  []
 
 [27]
-
-
-Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 28  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
- []
-
-[28 <./Illustrations/Chapter_01/CRLM2.png>]
-
-
-Overfull \hbox (56.59456pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 29
- []
-
-[29]
-<Illustrations/Chapter_01/HCA.png, id=1908, 540.0978pt x 471.6822pt>
+<Illustrations/Chapter_01/HCA.png, id=1989, 540.0978pt x 471.6822pt>
 File: Illustrations/Chapter_01/HCA.png Graphic file (type png)
 <use Illustrations/Chapter_01/HCA.png>
 Package pdftex.def Info: Illustrations/Chapter_01/HCA.png  used on input line 405.
@@ -1421,18 +1457,18 @@ Package pdftex.def Info: Illustrations/Chapter_01/HCA.png  used on input line 40
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 30  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 28  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[30 <./Illustrations/Chapter_01/HCA.png>]
+[28 <./Illustrations/Chapter_01/HCA.png>]
 
 
 Overfull \hbox (56.59456pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 31
+\T2A/lmr/bx/n/10.95 1.3.  онйюгх дн бхйнмюммъ кюоюпняйноIвмху пегейжIи оевIмйх 29
  []
 
-[31]
-<Illustrations/Chapter_01/ECC-Sg6.png, id=1956, 559.6107pt x 310.0383pt>
+[29]
+<Illustrations/Chapter_01/ECC-Sg6.png, id=2038, 559.6107pt x 310.0383pt>
 File: Illustrations/Chapter_01/ECC-Sg6.png Graphic file (type png)
 <use Illustrations/Chapter_01/ECC-Sg6.png>
 Package pdftex.def Info: Illustrations/Chapter_01/ECC-Sg6.png  used on input line 436.
@@ -1444,23 +1480,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 32  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 30  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[32 <./Illustrations/Chapter_01/ECC-Sg6.png>]
+[30 <./Illustrations/Chapter_01/ECC-Sg6.png>]
 
 
 Overfull \hbox (60.97328pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 1.4.  кюоюпняйноIвмхи онцкъд мю уIпспцIвмс юмюрнлIч оевIмйх 33
+\T2A/lmr/bx/n/10.95 1.4.  кюоюпняйноIвмхи онцкъд мю уIпспцIвмс юмюрнлIч оевIмйх 31
  []
 
-[33]
-<Illustrations/Chapter_01/Couinaud.jpg, id=1985, 2319.66624pt x 1603.9925pt>
+[31]
+<Illustrations/Chapter_01/Couinaud.jpg, id=2065, 2319.66624pt x 1603.9925pt>
 File: Illustrations/Chapter_01/Couinaud.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Couinaud.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Couinaud.jpg  used on input line 467.
 (pdftex.def)             Requested size: 323.9978pt x 224.01897pt.
-<Illustrations/Chapter_01/Healey.jpg, id=1987, 2319.66624pt x 1603.9925pt>
+<Illustrations/Chapter_01/Healey.jpg, id=2067, 2319.66624pt x 1603.9925pt>
 File: Illustrations/Chapter_01/Healey.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Healey.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Healey.jpg  used on input line 481.
@@ -1469,11 +1505,11 @@ Package pdftex.def Info: Illustrations/Chapter_01/Healey.jpg  used on input line
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 34  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 32  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[34 <./Illustrations/Chapter_01/Couinaud.jpg>]
-<Illustrations/Chapter_01/Brisbane.jpg, id=1996, 2870.725pt x 3409.73875pt>
+[32 <./Illustrations/Chapter_01/Couinaud.jpg>]
+<Illustrations/Chapter_01/Brisbane.jpg, id=2075, 2870.725pt x 3409.73875pt>
 File: Illustrations/Chapter_01/Brisbane.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Brisbane.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Brisbane.jpg  used on input line 494.
@@ -1486,18 +1522,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Overfull \hbox (60.97328pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 1.4.  кюоюпняйноIвмхи онцкъд мю уIпспцIвмс юмюрнлIч оевIмйх 35
+\T2A/lmr/bx/n/10.95 1.4.  кюоюпняйноIвмхи онцкъд мю уIпспцIвмс юмюрнлIч оевIмйх 33
  []
 
-[35 <./Illustrations/Chapter_01/Healey.jpg>]
+[33 <./Illustrations/Chapter_01/Healey.jpg>]
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 36  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 34  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[36 <./Illustrations/Chapter_01/Brisbane.jpg>]
-<Illustrations/Chapter_01/External landmarks_Ligaments.png, id=2009, 597.6729pt x 357.0138pt>
+[34 <./Illustrations/Chapter_01/Brisbane.jpg>]
+<Illustrations/Chapter_01/External landmarks_Ligaments.png, id=2087, 597.6729pt x 357.0138pt>
 File: Illustrations/Chapter_01/External landmarks_Ligaments.png Graphic file (type png)
 <use Illustrations/Chapter_01/External landmarks_Ligaments.png>
 Package pdftex.def Info: Illustrations/Chapter_01/External landmarks_Ligaments.png  used on input line 511.
@@ -1507,7 +1543,7 @@ Overfull \hbox (1.02301pt too wide) in paragraph at lines 522--523
 \T2A/fcm/m/n/10.95 БН-Пi-РМЮ БЕ-МЮ, ОЕ-ВiМ-ЙН-БЮ ЮП-РЕ-ПiЪ, ЦiК-ЙХ АКС-ЙЮ-Ч-ВН-ЦН МЕП-БЮ, Ю БХ-УН-ДЪРЭ ФНБ-
  []
 
-<Illustrations/Chapter_01/External landmarks_PDL.png, id=2013, 597.6729pt x 165.4983pt>
+<Illustrations/Chapter_01/External landmarks_PDL.png, id=2091, 597.6729pt x 165.4983pt>
 File: Illustrations/Chapter_01/External landmarks_PDL.png Graphic file (type png)
 <use Illustrations/Chapter_01/External landmarks_PDL.png>
 Package pdftex.def Info: Illustrations/Chapter_01/External landmarks_PDL.png  used on input line 527.
@@ -1522,11 +1558,11 @@ Underfull \vbox (badness 1067) has occurred while \output is active []
 
 
 Overfull \hbox (60.97328pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 1.4.  кюоюпняйноIвмхи онцкъд мю уIпспцIвмс юмюрнлIч оевIмйх 37
+\T2A/lmr/bx/n/10.95 1.4.  кюоюпняйноIвмхи онцкъд мю уIпспцIвмс юмюрнлIч оевIмйх 35
  []
 
-[37 <./Illustrations/Chapter_01/External landmarks_Ligaments.png>]
-<Illustrations/Chapter_01/Gates.jpg, id=2023, 3115.64pt x 2288.55pt>
+[35 <./Illustrations/Chapter_01/External landmarks_Ligaments.png>]
+<Illustrations/Chapter_01/Gates.jpg, id=2100, 3115.64pt x 2288.55pt>
 File: Illustrations/Chapter_01/Gates.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Gates.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Gates.jpg  used on input line 544.
@@ -1539,18 +1575,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 38  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 36  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[38 <./Illustrations/Chapter_01/External landmarks_PDL.png>]
+[36 <./Illustrations/Chapter_01/External landmarks_PDL.png>]
 
 
 Overfull \hbox (60.97328pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 1.4.  кюоюпняйноIвмхи онцкъд мю уIпспцIвмс юмюрнлIч оевIмйх 39
+\T2A/lmr/bx/n/10.95 1.4.  кюоюпняйноIвмхи онцкъд мю уIпспцIвмс юмюрнлIч оевIмйх 37
  []
 
-[39 <./Illustrations/Chapter_01/Gates.jpg>]
-<Illustrations/Chapter_01/Sg1.jpg, id=2040, 2541.495pt x 2103.86pt>
+[37 <./Illustrations/Chapter_01/Gates.jpg>]
+<Illustrations/Chapter_01/Sg1.jpg, id=2113, 2541.495pt x 2103.86pt>
 File: Illustrations/Chapter_01/Sg1.jpg Graphic file (type jpg)
 <use Illustrations/Chapter_01/Sg1.jpg>
 Package pdftex.def Info: Illustrations/Chapter_01/Sg1.jpg  used on input line 563.
@@ -1569,10 +1605,10 @@ Overfull \hbox (6.36435pt too wide) in paragraph at lines 576--577
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 40  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 38  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[40 <./Illustrations/Chapter_01/Sg1.jpg>]
+[38 <./Illustrations/Chapter_01/Sg1.jpg>]
 Overfull \hbox (2.2549pt too wide) in paragraph at lines 586--586
 []\T2A/lmr/bx/n/10.95 яЙКЮДМiЯРЭ| 
  []
@@ -1659,17 +1695,17 @@ Overfull \hbox (7.62933pt too wide) in paragraph at lines 651--656
 
 
 Overfull \hbox (132.17264pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 1.5.  IлокелемрюжIъ лерндс кюоюпняйноIвмн┬ пегейжI┬ оевIмйх б опюйрхйс 41
+\T2A/lmr/bx/n/10.95 1.5.  IлокелемрюжIъ лерндс кюоюпняйноIвмн┬ пегейжI┬ оевIмйх б опюйрхйс 39
  []
 
-[41]
+[39]
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmr/bx/n/10.95 42  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmr/bx/n/10.95 40  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[42]
+[40]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -1722,7 +1758,7 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 
-[43]
+[41]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -1783,10 +1819,10 @@ Overfull \hbox (14.15309pt too wide) in paragraph at lines 679--679
 
 
 Overfull \hbox (20.18387pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 44  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmtt/m/n/10.95 42  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[44]
+[42]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -1870,7 +1906,7 @@ Overfull \hbox (26.3235pt too wide) in paragraph at lines 679--679
 
 
 
-[45]
+[43]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -1940,10 +1976,10 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 Overfull \hbox (20.18387pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 46  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmtt/m/n/10.95 44  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[46]
+[44]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2031,7 +2067,7 @@ Overfull \hbox (6.76706pt too wide) in paragraph at lines 679--679
 
 
 
-[47]
+[45]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2093,10 +2129,10 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 Overfull \hbox (20.18387pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 48  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmtt/m/n/10.95 46  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[48]
+[46]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2143,7 +2179,7 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 
-[49]
+[47]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2203,10 +2239,10 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 Overfull \hbox (20.18387pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 50  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmtt/m/n/10.95 48  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[50]
+[48]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2251,7 +2287,7 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 
-[51]
+[49]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2303,10 +2339,10 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 Overfull \hbox (20.18387pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 52  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmtt/m/n/10.95 50  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[52]
+[50]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2376,7 +2412,7 @@ Overfull \hbox (3.51753pt too wide) in paragraph at lines 679--679
 
 
 
-[53]
+[51]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2433,10 +2469,10 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 Overfull \hbox (20.18387pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 54  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmtt/m/n/10.95 52  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[54]
+[52]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2495,7 +2531,7 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 
-[55]
+[53]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2546,10 +2582,10 @@ Overfull \hbox (5.65976pt too wide) in paragraph at lines 679--679
 
 
 Overfull \hbox (20.18387pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 56  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmtt/m/n/10.95 54  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[56]
+[54]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2599,7 +2635,7 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 
-[57]
+[55]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2655,10 +2691,10 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 Overfull \hbox (20.18387pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 58  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmtt/m/n/10.95 56  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[58]
+[56]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 679.
@@ -2727,16 +2763,16 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 
-[59]
+[57]
 Package biblatex Info: Reference section=0 on input line 681.
 )
 
 
 Overfull \hbox (20.17905pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 60  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
+\T2A/lmtt/m/n/10.95 58  1.  ренперхвмI нямнбх кюоюпняйноIвмн┬ уIпспцI┬ оевIмйх
  []
 
-[60]
+[58]
 \openout2 = `Chapters/chapter_02_practice.aux'.
 
  (./Chapters/chapter_02_practice.tex
@@ -2770,7 +2806,7 @@ Overfull \hbox (2.64082pt too wide) in paragraph at lines 17--18
 
 
 
-[61
+[59
 
 
 
@@ -2784,15 +2820,24 @@ Overfull \hbox (5.10522pt too wide) in paragraph at lines 43--44
 
 
 Overfull \hbox (32.86086pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 60  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
+ []
+
+[60]
+
+
+Overfull \hbox (39.83089pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 2.1.  наярефеммъ рю оепедноепюжIимю оIдцнрнбйю оюжI≥мрIб 61
+ []
+
+[61]
+
+
+Overfull \hbox (32.86086pt too wide) has occurred while \output is active
 \T2A/lmtt/m/n/10.95 62  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
 [62]
-
-
-Overfull \hbox (39.83089pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 2.1.  наярефеммъ рю оепедноепюжIимю оIдцнрнбйю оюжI≥мрIб 63
- []
 
 [63]
 
@@ -2801,18 +2846,9 @@ Overfull \hbox (32.86086pt too wide) has occurred while \output is active
 \T2A/lmtt/m/n/10.95 64  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
-[64]
+[64{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
 
 [65]
-
-
-Overfull \hbox (32.86086pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 66  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
- []
-
-[66{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
-
-[67]
 Overfull \hbox (30.34506pt too wide) in paragraph at lines 146--147
 \T2A/fcm/m/n/10.95 МН-ЦН ДХЯ-ЯЕ-ЙЖiИ-МН-ЦН iМ-ЯРПС-ЛЕМ-РС (МЮ-ОПХ-ЙКЮД СКЭ-РПЮ-ГБС-ЙН-БН-ЦН ДХЯЯЕЙРНПЮ-
  []
@@ -2831,10 +2867,10 @@ Overfull \hbox (2.84975pt too wide) in paragraph at lines 151--152
 
 
 Overfull \hbox (32.86086pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 68  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
+\T2A/lmtt/m/n/10.95 66  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
-[68]
+[66]
 Overfull \hbox (6.28503pt too wide) in paragraph at lines 168--169
 [] \T2A/fcm/b/it/10.95 рЕ-УМi-ЙЮ БХ-ЙН-МЮ-М-МЪ: \T2A/fcm/m/it/10.95 йПС-ЦКС ГБ'ЪГЙС БХ-Яi-ЙЮ-ЧРЭ ЛЮ-ЙЯХ-ЛЮКЭ-МН АКХГЭ-
  []
@@ -2846,14 +2882,14 @@ Overfull \hbox (4.63501pt too wide) in paragraph at lines 172--173
 
 
 
-[69]
+[67]
 
 
 Overfull \hbox (32.86086pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 70  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
+\T2A/lmtt/m/n/10.95 68  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
-[70]
+[68]
 Overfull \hbox (5.93744pt too wide) in paragraph at lines 199--200
 \T2A/fcm/m/n/10.95 оПХИНЛ оПiМ-ЦКЮ ЖЕ ЯОН-ЯiА РХЛ-ВЮ-ЯН-БН-ЦН ОЕ-ПЕ-РХ-ЯЙЮ-М-МЪ ЕКЕ-ЛЕМ-РiБ ОЕВiМЙНБН-
  []
@@ -2865,7 +2901,7 @@ Overfull \hbox (1.30559pt too wide) in paragraph at lines 203--205
 
 
 
-[71]
+[69]
 Overfull \hbox (1.46388pt too wide) in paragraph at lines 221--222
 \T2A/fcm/b/it/10.95 ЦКЮ. \T2A/fcm/m/it/10.95 рСП-Мi-ЙЕР ДНБ-ФХ-МНЧ 60 ЯЛ ОПН-БН-ДЪРЭ МЮБ-ЙН-КН ЕКЕ-ЛЕМ-РiБ ОЕВiМЙНБН-
  []
@@ -2874,31 +2910,31 @@ Overfull \hbox (1.46388pt too wide) in paragraph at lines 221--222
 
 
 Overfull \hbox (32.86086pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 72  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
+\T2A/lmtt/m/n/10.95 70  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
-[72]
+[70]
 Overfull \hbox (3.824pt too wide) in paragraph at lines 230--231
 \T2A/fcm/m/n/10.95 яСРЭ ЦКi-ЯН-МН-БН-ЦН ОiД-УН-ДС ОН-КЪ-ЦЮ╧ Б ДХЯ-ЯЕ-ЙЖi╗ ОНП-РЮКЭ-МХУ ЯРПС-ЙРСП Б ЯЙКЮ-
  []
 
 
 
-[73]
+[71]
 
 
 Overfull \hbox (32.86086pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 74  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
+\T2A/lmtt/m/n/10.95 72  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
-[74]
+[72]
 Overfull \hbox (4.59566pt too wide) in paragraph at lines 260--261
 \T2A/fcm/m/n/10.95 РН-ДЮЛ, ОПН-РЕ АiКЭЬ ЯЙКЮ-ДМЮ РЮ РПХ-БЮ-КЮ. мЕ-ЙНП-ПЕ-ЙРМЕ БХ-ЙН-ПХ-ЯРЮ-М-МЪ ЙПЮЬ-
  []
 
 
 
-[75]
+[73]
 Overfull \hbox (0.58849pt too wide) in paragraph at lines 270--271
 []\T2A/fcm/m/n/10.95 рЮЙХЛ ВХ-МНЛ ДiЪ СКЭ-РПЮ-ГБС-ЙН-БН-ЦН ДХЯЕЙРНПЮ-ЮЯОiПЮРНПЮ ГЮ-КЕ-ФХРЭ БiД
  []
@@ -2912,27 +2948,27 @@ Overfull \hbox (15.88062pt too wide) in paragraph at lines 278--279
 
 
 Overfull \hbox (32.86086pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 76  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
+\T2A/lmtt/m/n/10.95 74  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
-[76]
+[74]
 Overfull \hbox (28.30174pt too wide) in paragraph at lines 287--288
 \T2A/fcm/m/n/10.95 БГДНБФ ОКН-ЫХ-МХ РПЮМЯ-ЯЕ-ЙЖi. бХ-ЙН-МС-Ч-ВХ ЖЕИ ЛЮ-МЕБП МЕ-НА-Уi-ДМН ОЮЛ'ЪРЮРХ
  []
 
 
 
-[77]
+[75]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 
 Overfull \hbox (32.86086pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 78  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
+\T2A/lmtt/m/n/10.95 76  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
-[78]
+[76]
 Overfull \hbox (3.68188pt too wide) in paragraph at lines 317--318
 []\T2A/fcm/b/n/10.95 оНЬЙНДФЕММЪ ЛЮ-Цi-ЯРПЮКЭ-МХУ ОНП-РЮКЭ-МХУ ЯРПС-ЙРСП \T2A/fcm/m/n/10.95 ЛН-ФЕ БХ-
  []
@@ -2941,10 +2977,10 @@ Overfull \hbox (3.68188pt too wide) in paragraph at lines 317--318
 
 
 Overfull \hbox (117.07347pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 2.4.  бIдухкеммъ бIд мнплюкэмнцн ундс ноепюжI┬ рю яонянах ┬у йнппейжI┬ 79
+\T2A/lmtt/m/n/10.95 2.4.  бIдухкеммъ бIд мнплюкэмнцн ундс ноепюжI┬ рю яонянах ┬у йнппейжI┬ 77
  []
 
-[79]
+[77]
 Overfull \hbox (1.28384pt too wide) in paragraph at lines 322--323
 []\T2A/fcm/m/n/10.95 пЕРЕКЭМН БХ-БВЮ-РХ Б ОЕ-ПЕ-ДН-ОЕ-ПЮ-ЖiИ-МН-ЛС ОЕ-Пi-Н-Дi ЮМЮ-РН-Лi-ВМЕ БГЮ-
  []
@@ -2973,12 +3009,31 @@ Overfull \hbox (1.5576pt too wide) in paragraph at lines 333--334
 
 
 Overfull \hbox (32.86086pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 78  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
+ []
+
+[78]
+Overfull \hbox (1.01073pt too wide) in paragraph at lines 347--348
+\T2A/fcm/m/n/10.95 бХПЮФЕМХИ ГКС-ЙН-БХИ ОПН-ЖЕЯ, МЕ-НАЕ-ПЕ-ФМЕ ГЮ-ЯРН-ЯС-БЮ-М-МЪ Уi-ПСП-Цi-ВМХУ ЕМЕП-
+ []
+
+
+
+
+Overfull \hbox (117.07347pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 2.4.  бIдухкеммъ бIд мнплюкэмнцн ундс ноепюжI┬ рю яонянах ┬у йнппейжI┬ 79
+ []
+
+[79]
+
+
+Overfull \hbox (32.86086pt too wide) has occurred while \output is active
 \T2A/lmtt/m/n/10.95 80  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
 [80]
-Overfull \hbox (1.01073pt too wide) in paragraph at lines 347--348
-\T2A/fcm/m/n/10.95 бХПЮФЕМХИ ГКС-ЙН-БХИ ОПН-ЖЕЯ, МЕ-НАЕ-ПЕ-ФМЕ ГЮ-ЯРН-ЯС-БЮ-М-МЪ Уi-ПСП-Цi-ВМХУ ЕМЕП-
+Overfull \hbox (0.40776pt too wide) in paragraph at lines 380--381
+\T2A/fcm/m/n/10.95 ПЕМ-Уi-ЛХ ПС-РХМ-МН БХ-ЙН-ПХ-ЯРН-БС-БЮ-РХ iМ-РПЮ-Н-ОЕ-ПЮ-ЖiИ-МС сг-ДiЮЦМНЯРХЙС
  []
 
 
@@ -2996,25 +3051,6 @@ Overfull \hbox (32.86086pt too wide) has occurred while \output is active
  []
 
 [82]
-Overfull \hbox (0.40776pt too wide) in paragraph at lines 380--381
-\T2A/fcm/m/n/10.95 ПЕМ-Уi-ЛХ ПС-РХМ-МН БХ-ЙН-ПХ-ЯРН-БС-БЮ-РХ iМ-РПЮ-Н-ОЕ-ПЮ-ЖiИ-МС сг-ДiЮЦМНЯРХЙС
- []
-
-
-
-
-Overfull \hbox (117.07347pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 2.4.  бIдухкеммъ бIд мнплюкэмнцн ундс ноепюжI┬ рю яонянах ┬у йнппейжI┬ 83
- []
-
-[83]
-
-
-Overfull \hbox (32.86086pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 84  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
- []
-
-[84]
 Overfull \hbox (1.48082pt too wide) in paragraph at lines 402--403
 \T2A/fcm/m/n/10.95 ОПН-БЕ-ДЕМ-Мi ОКЮ-МН-БН╗ ЙНМ-БЕП-Яi╗ ОЮ-Жi-╧М-РЮ МЕ-НА-Уi-ДМН ОЕ-ПЕ-Лi-ЯРХ-РХ Б ГБХ-
  []
@@ -3032,10 +3068,10 @@ LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 
 
 Overfull \hbox (117.08311pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 2.4.  бIдухкеммъ бIд мнплюкэмнцн ундс ноепюжI┬ рю яонянах ┬у йнппейжI┬ 85
+\T2A/lmtt/m/n/10.95 2.4.  бIдухкеммъ бIд мнплюкэмнцн ундс ноепюжI┬ рю яонянах ┬у йнппейжI┬ 83
  []
 
-[85]
+[83]
 
 LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
 (Font)              using `T2A/lmr/m/sl' instead on input line 411.
@@ -3102,10 +3138,10 @@ Package biblatex Info: Reference section=0 on input line 412.
 
 
 Overfull \hbox (32.86086pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 86  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
+\T2A/lmtt/m/n/10.95 84  2.  опюйрхвмI юяоейрх кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
-[86]
+[84]
 \openout2 = `Chapters/chapter_03_examples.aux'.
 
  (./Chapters/chapter_03_examples.tex
@@ -3116,7 +3152,7 @@ Package biblatex Info: Reference section=3 on input line 3.
 Package biblatex Info: Setting label 'refsection:3' on input line 3.
 
 
-[87
+[85
 
 
 
@@ -3135,10 +3171,10 @@ Overfull \hbox (2.98393pt too wide) in paragraph at lines 43--44
 
 
 Overfull \hbox (57.1969pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 88  3.  реумIйю нйпелху бхдIб кюоюпняйноIвмху пегейжIи оевIмйх
+\T2A/lmtt/m/n/10.95 86  3.  реумIйю нйпелху бхдIб кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
-[88]
+[86]
 Overfull \hbox (5.57907pt too wide) in paragraph at lines 72--73
 []\T2A/fcm/b/n/10.95 йПНБНРЕВЮ: \T2A/fcm/m/n/10.95 ГЮ-ЯРН-ЯС-БЮ-М-МЪ Аi-ОН-КЪП-МН╗ ЙН-Ю-ЦС-КЪ-Жi╗, ЦЕ-ЛН-ЯРЮ-РХ-ВМХУ ЛЮ-
  []
@@ -3149,6 +3185,15 @@ Overfull \hbox (1.43707pt too wide) in paragraph at lines 94--97
  []
 
 
+
+[87]
+
+
+Overfull \hbox (57.1969pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 88  3.  реумIйю нйпелху бхдIб кюоюпняйноIвмху пегейжIи оевIмйх
+ []
+
+[88]
 
 [89]
 
@@ -3214,15 +3259,6 @@ Overfull \hbox (62.64084pt too wide) has occurred while \output is active
 [102]
 
 [103]
-
-
-Overfull \hbox (62.64084pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 104  3.  реумIйю нйпелху бхдIб кюоюпняйноIвмху пегейжIи оевIмйх
- []
-
-[104]
-
-[105]
 Overfull \hbox (3.47443pt too wide) in paragraph at lines 727--728
 []\T2A/fcm/m/n/10.95 бМСРПiЬМЭНОЕВiМЙНБЮ УН-КЮМ-Цi-Н-ЙЮП-ЖХ-МН-ЛЮ, КН-ЙЮ-Кi-ГН-БЮ-МЮ Б ОПЮ-БiИ ДН-
  []
@@ -3236,15 +3272,24 @@ Overfull \hbox (2.67673pt too wide) in paragraph at lines 745--746
 
 
 Overfull \hbox (62.64084pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 106  3.  реумIйю нйпелху бхдIб кюоюпняйноIвмху пегейжIи оевIмйх
+\T2A/lmtt/m/n/10.95 104  3.  реумIйю нйпелху бхдIб кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
-[106{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+[104{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
 Overfull \hbox (6.14926pt too wide) in paragraph at lines 758--759
 []\T2A/fcm/b/n/10.95 IМЯРПСЛЕМРХ: \T2A/fcm/m/n/10.95 ЕМ-ДН-ЯЙН-Оi-ВМХИ СКЭ-РПЮ-ГБСЙ, CUSA, Thunderbeat, ГЬХ-
  []
 
 
+
+[105]
+
+
+Overfull \hbox (62.64084pt too wide) has occurred while \output is active
+\T2A/lmtt/m/n/10.95 106  3.  реумIйю нйпелху бхдIб кюоюпняйноIвмху пегейжIи оевIмйх
+ []
+
+[106]
 
 [107]
 
@@ -3266,15 +3311,6 @@ Overfull \hbox (62.64084pt too wide) has occurred while \output is active
 
 [111]
 
-
-Overfull \hbox (62.64084pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 112  3.  реумIйю нйпелху бхдIб кюоюпняйноIвмху пегейжIи оевIмйх
- []
-
-[112]
-
-[113]
-
 LaTeX Warning: Empty bibliography on input line 1070.
 
 Package biblatex Info: Reference section=0 on input line 1071.
@@ -3282,10 +3318,10 @@ Package biblatex Info: Reference section=0 on input line 1071.
 
 
 Overfull \hbox (62.64084pt too wide) has occurred while \output is active
-\T2A/lmtt/m/n/10.95 114  3.  реумIйю нйпелху бхдIб кюоюпняйноIвмху пегейжIи оевIмйх
+\T2A/lmtt/m/n/10.95 112  3.  реумIйю нйпелху бхдIб кюоюпняйноIвмху пегейжIи оевIмйх
  []
 
-[114] (./main.aux (./Chapters/preface.aux) (./Chapters/chapter_01_theory.aux) (./Chapters/chapter_02_practice.aux) (./Chapters/chapter_03_examples.aux))
+[112] (./main.aux (./Chapters/preface.aux) (./Chapters/chapter_01_theory.aux) (./Chapters/chapter_02_practice.aux) (./Chapters/chapter_03_examples.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -3295,24 +3331,24 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 98478E3F47EEF07E1B8982EF501C56E2;51707.
+(rerunfilecheck)             Checksum: EA58DB4264AF63DAACE5D37AB268FA65;51707.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29351 strings out of 473190
- 557960 string characters out of 5715800
- 1691562 words of memory out of 5000000
- 51505 multiletter control sequences out of 15000+600000
+ 29371 strings out of 473190
+ 558169 string characters out of 5715800
+ 1693601 words of memory out of 5000000
+ 51513 multiletter control sequences out of 15000+600000
  608761 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,18n,81p,3709b,2215s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,18n,81p,3709b,3305s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-lgc/fcmb6z.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-lgc/fcmbi6z.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-lgc/fcmr6z.pfb><</usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-lgc/fcmr8a.pfb>></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-lgc/fcmri6z.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on main.pdf (124 pages, 119263376 bytes).
+Output written on main.pdf (128 pages, 119269347 bytes).
 PDF statistics:
- 3223 PDF objects out of 3580 (max. 8388607)
- 2994 compressed objects within 30 object streams
- 737 named destinations out of 1000 (max. 500000)
+ 3296 PDF objects out of 3580 (max. 8388607)
+ 3062 compressed objects within 31 object streams
+ 743 named destinations out of 1000 (max. 500000)
  1572 words of extra memory for PDF output out of 10000 (max. 10000000)
 
