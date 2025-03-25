@@ -8891,8 +8891,8 @@
       \field{title}{{Open versus minimally invasive liver surgery for colorectal liver metastases (LapOpHuva): a prospective randomized controlled trial}}
       \field{volume}{0}
       \field{year}{2019}
-      \field{pages}{0}
-      \range{pages}{-1}
+      \field{pages}{3926\bibrangedash 3936}
+      \range{pages}{11}
       \verb{doi}
       \verb 10.1007/s00464-019-06679-0
       \endverb
@@ -8906,7 +8906,6 @@
       \verb http://dx.doi.org/10.1007/s00464-019-06679-0
       \endverb
       \keyw{Minimally invasive liver surgery,Open liver resect,colorectal cancer,colorectal liver metastases,minimally invasive liver surgery,open liver resection}
-      \warn{\item Range field 'pages' in entry 'Robles-Campos2019' is malformed, falling back to literal}
     \endentry
     \entry{Romano2012}{article}{}{}
       \name{author}{8}{}{%

@@ -6,11 +6,31 @@
 
 \documentclass[a4paper,11pt]{book}
 \usepackage[ukrainian]{babel} 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Пакети шрифтів                                        %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \usepackage[T1]{fontenc}
+\usepackage[T2A]{fontenc}
+
+%\usepackage{mathptmx} 
+
+
+
+
+
+
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
 \usepackage{gensymb}
 \usepackage{changepage}
+\usepackage{float}
+
+
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Title style                                           %
@@ -128,7 +148,6 @@
 %\usefont{T2A}{Tempora-TLF}{m}{n}
 
 
-
 \frontmatter
 \maketitle
 
@@ -139,13 +158,13 @@
 %list of figures and list of tables %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\tableofcontents
-\listoffigures
-\listoftables
-
 \printglossary[type=\acronymtype,
                title=Перелік умовних позначеннь]
 
+
+\tableofcontents
+\listoffigures
+\listoftables
 
 \mainmatter
 
