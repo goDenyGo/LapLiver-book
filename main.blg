@@ -1,46 +1,5 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'main.blg'
-[37] biber-darwin:340> INFO - === Tue Mar 25, 2025, 09:41:25
-[46] Biber.pm:420> INFO - Reading 'main.bcf'
-[93] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[99] Biber.pm:994> INFO - Found 149 citekeys in bib section 1
-[99] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[99] Biber.pm:994> INFO - Found 10 citekeys in bib section 2
-[99] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[99] Biber.pm:994> INFO - Found 0 citekeys in bib section 3
-[99] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[115] Biber.pm:4463> INFO - Processing section 1
-[120] Biber.pm:4654> INFO - Looking for bibtex file 'Bibliographies/bib_01.bib' for section 1
-[138] bibtex.pm:1713> INFO - LaTeX decoding ...
-[400] bibtex.pm:1519> INFO - Found BibTeX data source 'Bibliographies/bib_01.bib'
-[1305] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1305] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1305] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'uk-UA'
-[1404] Biber.pm:4463> INFO - Processing section 2
-[1404] Biber.pm:4654> INFO - Looking for bibtex file 'Bibliographies/bib_01.bib' for section 2
-[1481] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1481] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1481] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'uk-UA'
-[1487] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[1567] bbl.pm:779> INFO - Output to main.bbl
-[1567] Biber.pm:131> WARN - Duplicate entry key: 'Ratti2020' in file 'Bibliographies/bib_01.bib', skipping ...
-[1567] Biber.pm:131> WARN - Duplicate entry key: 'Zimmermann2017' in file 'Bibliographies/bib_01.bib', skipping ...
-[1567] Biber.pm:131> WARN - Duplicate entry key: 'Mizuno2019' in file 'Bibliographies/bib_01.bib', skipping ...
-[1567] Biber.pm:131> WARN - ISBN '1528-1140; 0003-4932' in entry 'Buell2009' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '1365-182X' in entry 'Belli2013a' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '1879-1883 (Electronic)$\backslash$n0002-9610 (Linking)' in entry 'Gayet2007' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '1879-1190 (Electronic)$\backslash$n1072-7515 (Linking)' in entry 'Dagher2008' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '0003-4932 1528-1140' in entry 'Yoon2017b' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '1092-6429' in entry 'Cheng2015' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '0930-2794' in entry 'Ikeda2014' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '0000000234320' in entry 'Wei2019' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '1043401435179' in entry 'Machado2014' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '0140-6736 (Print)$\backslash$r0140-6736 (Linking)' in entry 'Cherqui2002a' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '1528-1140 (Electronic)$\backslash$r0003-4932 (Linking)' in entry 'Lin2013' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '1600-0641 (Electronic) 0168-8278 (Linking)' in entry 'Colombo2016' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '0270-9139' in entry 'Heimbach2018' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '0168-8278' in entry 'Galle2018a' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '1537-453X (Electronic)' in entry 'Liu2009' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '1365-182X (Print)$\backslash$n1365-182X (Linking)' in entry 'Pang2000' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:131> WARN - ISBN '1868-6974' in entry 'Ban2014' is invalid - run biber with '--validate_datamodel' for details.
-[1567] Biber.pm:133> INFO - WARNINGS: 20
+[35] biber-darwin:340> INFO - === Wed Mar 26, 2025, 23:12:05
+[121] Utils.pm:410> ERROR - Cannot find 'main.bcf'!
+[122] Biber.pm:136> INFO - ERRORS: 1
