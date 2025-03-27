@@ -1,1 +1,13 @@
 *.pdf
+main.blg
+main.acn
+main.acr
+main.alg
+main.bbl
+main.bbl-SAVE-ERROR
+*.gz
+*.ist
+*.gls
+*.glo
+*.gls
+*.glg
