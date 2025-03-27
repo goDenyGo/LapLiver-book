@@ -1,2 +1,79 @@
 {
+    "latex-workshop.latex.recipes": [
+    {
+        "name": "latexmk (biber)",
+        "tools": [
+            "pdflatex",
+            "biber",
+            "makeglossaries",
+            "pdflatex",
+            "pdflatex"
+        ]
+    }
+],
+"latex-workshop.latex.tools": [
+    {
+        "name": "pdflatex",
+        "command": "pdflatex",
+        "args": [
+            "-interaction=nonstopmode",
+            "-synctex=1",
+            "-file-line-error",
+            "%DOC%"]
+    },
+    {
+        "name": "makeindex",
+        "command": "makeindex",
+        "args": [
+            "%DOCFILE%.glo",
+            "-s", "gind.ist",
+            "-o", "%DOCFILE%.gls"
+        ]
+    },
+    {
+        "name": "makeglossaries",
+        "command": "makeglossaries",
+        "args": ["%DOCFILE%"]
+    },
+    {
+        "name": "biber",
+        "command": "biber",
+        "args": ["%DOCFILE%"]
+    }
+],
+"latex-workshop.latex.rootFile.useSubFile": false,
+"latex-workshop.latex.clean.enabled": false,
+"git.ignoreLegacyWarning": true,
+"workbench.editor.enablePreview": false,
+"editor.fontSize": 16,
+"editor.wordWrap": "on",
+"editor.tokenColorCustomizations": {
+
+    "[*Light*]": {
+        "textMateRules": [
+            {
+                "scope": "ref.matchtext",
+                "settings": {
+                    "foreground": "#000"
+                }
+            }
+        ]
+    },
+    "[*Dark*]": {
+        "textMateRules": [
+            {
+                "scope": "ref.matchtext",
+                "settings": {
+                    "foreground": "#fff"
+                }
+            }
+        ]
+    }
+},
+"git.enableSmartCommit": true,
+"git.autofetch": true,
+"window.autoDetectColorScheme": true,
+"window.restoreFullscreen": true,
+"window.systemColorTheme": "auto",
+"workbench.preferredHighContrastColorTheme": "Default Dark Modern"
 }
